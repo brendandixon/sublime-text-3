@@ -1,32 +1,54 @@
 {
 	"folder_history":
 	[
-		"/Users/brendan/Code/azure-rest-api-specs",
+		"/Users/brendan/Code/go/src/github.com/Azure/go-autorest",
 		"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go",
-		"/Users/brendan/Remotes/azap",
+		"/Users/brendan/Desktop/ICM 15582229",
+		"/Users/brendan/Code/azure-rest-api-specs",
+		"/Users/brendan/Code/WALinuxAgent",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionview-4.2.5",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/authority-3.1.0",
+		"/Users/brendan/Code",
+		"/Users/brendan/Code/docker/dotnet",
+		"/Users/brendan/Code/Linux-VMAgent",
+		"/Users/brendan/Code/docker",
 		"/Users/brendan/.bashrc.d",
-		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.3.2",
+		"/Users/brendan/Code/docker/docker-node-hello",
+		"/Users/brendan/Code/foo",
+		"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/arm",
+		"/Users/brendan/Code/go/src/github.com/brendandixon/foo",
 		"/Users/brendan/Code/thegatherings",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.5",
+		"/Users/brendan/Code/thegatherings/gatherings",
+		"/Users/brendan/Dropbox/Work/WellTok/Code/cwrails",
+		"/Users/brendan/Code/tracker",
+		"/Users/brendan/Code/go/src/github.com/brendandixon/example",
+		"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest",
+		"/Users/brendan/Code/dotnet",
+		"/Users/brendan/Code/docker-host/coreos-vagrant",
+		"/Users/brendan",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/devise-3.5.2",
+		"/Users/brendan/Code/stylus",
+		"/Users/brendan/Remotes/azap/home/azlinux",
+		"/Users/brendan/Remotes/azap",
+		"/Users/brendan/Desktop/foundation-5",
+		"/Users/brendan/Code/go/src/github.com/Azure/project42",
+		"/Users/brendan/Code/wala",
+		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.3.2",
 		"/Users/brendan/Remotes/ap",
 		"/Users/brendan/Desktop/Linux",
-		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/devise-3.5.2",
-		"/Users/brendan/Code/thegatherings/gatherings",
 		"/Volumes/AP/cust/var",
-		"/Users/brendan/Code/WALinuxAgent",
 		"/Users/brendan/Code/azure-activedirectory-library-for-nodejs",
 		"/Users/brendan/Desktop/EFI",
-		"/Users/brendan",
-		"/Users/brendan/Code/docker",
 		"/Users/brendan/Code/docker/ubuntu-sshd",
 		"/Users/brendan/Code/docker/Ubuntu",
 		"/Volumes/aptest",
-		"/Users/brendan/Code/go/src/github.com/Azure/go-autorest",
 		"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go",
 		"/Users/brendan/Code/go/src/github.com/azure/go-autorest",
 		"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm",
 		"/Users/brendan/Code/go/src/github.com/brendandixon/sdk",
 		"/Users/brendan/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rspec-rails-3.3.3",
-		"/Users/brendan/Dropbox/Work/WellTok/Code/cwrails",
 		"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/examples",
 		"/Users/brendan/.ssh",
 		"/Users/brendan/Code/token",
@@ -41,7 +63,6 @@
 		"/Users/brendan/Code/autorest",
 		"/Users/brendan/Desktop/Swagger",
 		"/Users/brendan/Code/azure-sdk-for-net/src/ResourceManagement",
-		"/Users/brendan/Code/go/src/github.com/brendandixon/example",
 		"/Users/brendan/Code/test",
 		"/Users/brendan/Code/go/src",
 		"/Users/brendan/Code/go/src/github.com/brendandixon",
@@ -62,7 +83,6 @@
 		"/Users/brendan/Desktop/new-term",
 		"/Users/brendan/Code/go/src/github.com/golang/go",
 		"/Users/brendan/Code/brendand-ub12/home/brendand/code/docker",
-		"/Users/brendan/Code",
 		"/Users/brendan/Code/swagger",
 		"/Users/brendan/Code/go",
 		"/Users/brendan/Code/go-src",
@@ -81,23 +101,210 @@
 		"/Applications/Stylus.app",
 		"/Users/brendan/Work/WellTok/Code",
 		"/Users/brendan/Work/Biologic/stylus",
-		"/Users/brendan/Code/tracker",
 		"/Users/brendan/.rbenv/versions/1.9.3-p327/lib/ruby/gems/1.9.1/gems/activesupport-3.2.15",
 		"/Users/brendan/.rbenv/versions/1.9.3-p327/lib/ruby/gems/1.9.1/gems/rest-client-1.6.7",
 		"/Users/brendan/Code/tkcmd"
 	],
 	"last_version": 3083,
-	"last_window_id": 421,
+	"last_window_id": 600,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1139.0,
+		"new_window_height": 1294.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"max",
+						"maximum"
+					],
+					[
+						"min",
+						"mininum"
+					],
+					[
+						"mi",
+						"mininum"
+					],
+					[
+						"va",
+						"validates_numericality_of"
+					],
+					[
+						"meeting",
+						"meeting_time"
+					],
+					[
+						"be",
+						"beginning_of_day"
+					],
+					[
+						"mee",
+						"meeting_ends"
+					],
+					[
+						"end",
+						"end_of_day"
+					],
+					[
+						"validates",
+						"validates_datetime"
+					],
+					[
+						"me",
+						"meeting_starts"
+					],
+					[
+						"stree_",
+						"street_primary"
+					],
+					[
+						"co",
+						"community"
+					],
+					[
+						"coll",
+						"collection"
+					],
+					[
+						"resource",
+						"resource_type"
+					],
+					[
+						"collection",
+						"collection_member"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"par",
+						"as_participant"
+					],
+					[
+						"member",
+						"memberships"
+					],
+					[
+						"Co",
+						"CommunityMembership"
+					],
+					[
+						"make",
+						"make_participant"
+					],
+					[
+						"change",
+						"change_column"
+					],
+					[
+						"comm",
+						"community_memberships"
+					],
+					[
+						"Campus",
+						"CampusGathering"
+					],
+					[
+						"gah",
+						"gathering_members"
+					],
+					[
+						"commu",
+						"community_members"
+					],
+					[
+						"En",
+						"EncodedAsJSON	 Ɩ"
+					],
+					[
+						"loo",
+						"lookup_context"
+					],
+					[
+						"Ba",
+						"BASEDATE"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"ens",
+						"ensure_flushed"
+					],
+					[
+						"DEVIC",
+						"DEVICE_BOOT"
+					],
+					[
+						"en",
+						"ensure_unmounted"
+					],
+					[
+						"UUI",
+						"UUID_ROOT"
+					],
+					[
+						"FORM",
+						"FORMAT_UEFI"
+					],
+					[
+						"MOUN",
+						"MOUNT_DATA"
+					],
+					[
+						"DE",
+						"DEVICE_DATA"
+					],
+					[
+						"MOUNT",
+						"MOUNT_UEFI"
+					],
+					[
+						"FORMAT",
+						"FORMAT_UEFI"
+					],
+					[
+						"format",
+						"format_partition"
+					],
+					[
+						"DEVI",
+						"DEVICE_BOOT"
+					],
+					[
+						"TYPE",
+						"TYPE_LINUX"
+					],
+					[
+						"MiB",
+						"MiB_SWAP"
+					],
+					[
+						"Gi",
+						"GiB_ROOT"
+					],
+					[
+						"type",
+						"TYPE_MBR"
+					],
+					[
+						"BOOT",
+						"BOOTSTYLE"
+					],
+					[
+						"GiB_",
+						"GiB_SWAP"
+					],
+					[
+						"Determin",
+						"Determining"
+					],
 					[
 						"text",
 						"text-transform"
@@ -113,10 +320,6 @@
 					[
 						"no",
 						"nowrap"
-					],
-					[
-						"margin",
-						"margin-bottom"
 					],
 					[
 						"UE",
@@ -425,190 +628,6 @@
 					[
 						"Do",
 						"DoErrorIfStatusCode	SendDecorator ƒ"
-					],
-					[
-						"DoRE",
-						"DoRetryOnStatusCodesForDuration	SendDecorator ƒ"
-					],
-					[
-						"DoRetr",
-						"DoRetryOnErrorForMaxDuration	SendDecorator ƒ"
-					],
-					[
-						"DoRe",
-						"DoRetryOnErrorForMaxAttempts	SendDecorator ƒ"
-					],
-					[
-						"Rs",
-						"Respond	error ƒ"
-					],
-					[
-						"Crea",
-						"CreatePollingRequest	*http.Request, time.Duration, error ƒ"
-					],
-					[
-						"expi",
-						"expireIn	time.Duration ν"
-					],
-					[
-						"setTokenTo",
-						"setTokenToExpireAt	*Token ƒ"
-					],
-					[
-						"A",
-						"After	bool ƒ"
-					],
-					[
-						"Exp",
-						"ExpiresIn	string ν"
-					],
-					[
-						"exp",
-						"expireAt	time.Time ν"
-					],
-					[
-						"Po",
-						"PollUntilStatusCode	*http.Response, error ƒ"
-					],
-					[
-						"ex",
-						"expireIn	time.Duration ν"
-					],
-					[
-						"Sprint",
-						"Sprintf	string ƒ"
-					],
-					[
-						"set",
-						"setTokenToExpireIn	*Token ƒ"
-					],
-					[
-						"c",
-						"clientId	string ν"
-					],
-					[
-						"LoadBal",
-						"LoadBalancersClient	struct ʈ"
-					],
-					[
-						"LOg",
-						"Logf	 ƒ"
-					],
-					[
-						"ensu",
-						"ensureTenantsClient	 ƒ"
-					],
-					[
-						"er",
-						"Errorf	 ƒ"
-					],
-					[
-						"St",
-						"StorageAccountCheckNameAvailabilityParameters	struct ʈ"
-					],
-					[
-						"Respon",
-						"Respond	error ƒ"
-					],
-					[
-						"Err",
-						"Errorf	 ƒ"
-					],
-					[
-						"head",
-						"headerRetryAfter	 Ɩ"
-					],
-					[
-						"Mar",
-						"MarshalIndent	[]byte, error ƒ"
-					],
-					[
-						"sub",
-						"subscriptionId	 Ɩ"
-					],
-					[
-						"ensure",
-						"ensureValueStrings	map[string]string ƒ"
-					],
-					[
-						"WithPa",
-						"WithPathParameters	PrepareDecorator ƒ"
-					],
-					[
-						"Ma",
-						"MarshalIndent	[]byte, error ƒ"
-					],
-					[
-						"Dog",
-						"DogProperties	struct ʈ"
-					],
-					[
-						"Rea",
-						"ReadAll	[]byte, error ƒ"
-					],
-					[
-						"e",
-						"Errorf	 ƒ"
-					],
-					[
-						"Stora",
-						"StorageAccountCreateParameters	struct ʈ"
-					],
-					[
-						"Mi",
-						"Millisecond	 Ɩ"
-					],
-					[
-						"print",
-						"Printf	n int, err error ƒ"
-					],
-					[
-						"sp",
-						"Sprintf	string ƒ"
-					],
-					[
-						"con",
-						"containsInt	bool ƒ"
-					],
-					[
-						"en",
-						"envToken	 Ɩ"
-					],
-					[
-						"WithB",
-						"WithBearerAuthorization	PrepareDecorator ƒ"
-					],
-					[
-						"Par",
-						"ParseDuration	time.Duration, error ƒ"
-					],
-					[
-						"ret",
-						"retrySeconds	int ν"
-					],
-					[
-						"Deco",
-						"DecorateSender	Sender ƒ"
-					],
-					[
-						"DoE",
-						"DoErrorUnlessStatusCode	SendDecorator ƒ"
-					],
-					[
-						"S",
-						"Second	 Ɩ"
-					],
-					[
-						"DoRetryOn",
-						"DoRetryOnMatchedError	SendDecorator ƒ"
-					],
-					[
-						"Prepar",
-						"PrepareDecorator	func(Preparer) Preparer ʈ"
-					],
-					[
-						"WithError",
-						"WithErrorForStatusCodes	SendDecorator ƒ"
 					]
 				]
 			},
@@ -618,10 +637,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "Pac",
+				"height": 400.0,
+				"last_filter": "in",
 				"selected_items":
 				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
 					[
 						"Pac",
 						"Package Control: Install Package"
@@ -659,7 +682,7 @@
 						"Pretty JSON: Format (Pretty Print) JSON"
 					]
 				],
-				"width": 467.0
+				"width": 475.0
 			},
 			"console":
 			{
@@ -684,144 +707,145 @@
 			},
 			"file_history":
 			[
-				"/Users/brendan/Code/thegatherings/doc/Features.md",
-				"/Users/brendan/Code/thegatherings/README.md",
-				"/Users/brendan/Code/thegatherings/doc/Notes.md",
-				"/Users/brendan/.ssh/config",
-				"/Users/brendan/Code/thegatherings/gatherings/app/assets/stylesheets/base_settings.scss",
-				"/Users/brendan/Code/thegatherings/gatherings/app/assets/stylesheets/welcome.scss.erb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/welcome/index.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/application.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_notice.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/Gemfile",
-				"/Users/brendan/Code/thegatherings/gatherings/config/routes.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/rails_helper.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/application_controller.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/devise/registrations/edit.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/devise/registrations/new.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/member.rb",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/adal.js",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/authentication-context.js",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/token-request.js",
-				"/Users/brendan/Desktop/Linux/S085unpack-azlinux",
-				"/Users/brendan/Code/thegatherings/gatherings/config/initializers/omniauth.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/config.ru",
-				"/Users/brendan/Code/docker/Ubuntu/Dockerfile",
-				"/Users/brendan/Code/thegatherings/gatherings/Dockerfile",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/pathable.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/.git/COMMIT_EDITMSG",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/.git/rebase-merge/git-rebase-todo",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/time_zone_validator.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/zoneable_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/time_zone_validator_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/zoneable.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/pathable_spec.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/responder_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/helpers.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/.git/COMMIT_EDITMSG",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/.git/rebase-merge/git-rebase-todo",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/models/gathering_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/models/concern/pathable_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/Rakefile",
-				"/Users/brendan/Code/thegatherings/gatherings/lib/tasks/annotate.rake",
-				"/Users/brendan/Code/thegatherings/gatherings/.rspec",
-				"/Users/brendan/Code/thegatherings/.gitignore",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-search/2015-02-28/swagger/search.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/examples/check.go",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/path_validator.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/locales/en.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/tags.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/active_dates.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/factories/campuses.rb",
 				"/Users/brendan/Code/thegatherings/gatherings/app/models/community.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20150924021937_add_belongs_to_community_gatherings.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/network/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/network/subnets.go",
-				"/Users/brendan/Desktop/inspector.go",
-				"/Users/brendan/Code/thegatherings/doc/Architecture.md",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/brendan/Code/thegatherings/Architecture.md",
-				"/Users/brendan/Code/thegatherings/gatherings/Procfile",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-storage/2015-05-01-preview/swagger/storage.json",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-web/2015-08-01/swagger/service.json",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/client_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/responder.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/preparer.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/sender.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/storage/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/storage/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/response.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/response.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage/storage_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/Rakefile",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/sender_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/storage/client_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/helper.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/autorest_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/autorest.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/mocks.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/token_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/azure.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/errs",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/compute/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/storage/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/preparer_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/LICENSE",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/mocks.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/authorizer.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/authorizer_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/credentials.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/network/network_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/compute/compute_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/subscriptions/subscriptions_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sdk_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sdk.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage/storage.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/subscriptions.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/token_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/date.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-storage/2015-05-01-preview/swagger/storage.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-compute/2015-06-15/swagger/compute.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/subscriptions/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/subscriptions/client.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/test/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/utility_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/utility.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-subscriptions/2014-04-01-preview/swagger/subscriptions.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/authorization/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/logic/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-logic/2015-02-01-preview/swagger/logic.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-authorization/2015-01-01/swagger/authorization.json",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/go-tour/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-network/2015-05-01-preview/swagger/network.json",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sample.go",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/README.md",
-				"/Users/brendan/Code/go/src/github.com/golang/go/README",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/datetime_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/date_test.go",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/log.txt",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/datetime.go",
-				"/Users/brendan/.bashrc",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/datetime/datetime.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/datetime/datetime_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/date/date_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/pipeline.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/date/date.go"
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/campus_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/time_zone_validator.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/addressed.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/application.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/community_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/seeds.rb",
+				"/Users/brendan/Code/thegatherings/doc/Routes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/config/routes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/tags_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/communities_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_footer.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/_form.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/report.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/gatherings_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/tags/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_collection.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile.lock",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r1",
+				"/Users/brendan/Code/thegatherings/gatherings/r2",
+				"/Users/brendan/Code/thegatherings/doc/Notes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/routes",
+				"/Users/brendan/Code/thegatherings/gatherings/r",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/age_groups.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/welcome_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/concerns/sequencer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/member_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/community_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controllers.rb",
+				"/Users/brendan/Code/thegatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160131051714_add_gathering_status.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/gathering_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/relationships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/life_stages.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/genders.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/campus_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/application_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/membership_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130014102_drop_old_memberships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/schema.rb",
+				"/Users/brendan/Code/thegatherings/doc/Roles.md",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130011830_add_unique_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130010716_add_memberships.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/date_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/string_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/attendance_record.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128030730_fix_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128014112_change_roles_to_strings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128012111_update_membership_tables.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126155923_change_member_to_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/initializers/authority.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126043343_correct_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campuses_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/unique_id.rb",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliate.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042302_create_invitations.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042810_create_appearances.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121040710_add_missing_indexes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035527_create_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035831_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121034136_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121033054_add_mininum_maximum_members_to_gathering.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/client.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/autorest.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/error.go",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility_test.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder_test.go",
+				"/usr/local/Library/Formula/go.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/application.js",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/jquery-with-rails-ujs.js",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml.new",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/_header.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/_footer.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/charts.js"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/Users/brendan/Code/thegatherings/gatherings/app",
 					"",
 					"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs",
 					"",
@@ -836,6 +860,125 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"_time",
+					"TIME_BASE",
+					"name",
+					"campus",
+					"Campus",
+					"@campus",
+					"country",
+					"state",
+					"city",
+					"street_primary",
+					"street",
+					"create",
+					"_url",
+					"members#de",
+					":collection",
+					"puts",
+					"\\?",
+					"ROLES",
+					"include Roles",
+					"Roles",
+					"{g}",
+					"participant",
+					"ROLE_NAMES",
+					".today",
+					"invitation",
+					"appearances",
+					"affiliate",
+					"affiliations",
+					"unaffiliated_on",
+					"affliated_on",
+					"affiliation",
+					"primary",
+					"requests",
+					"affilliations",
+					"_roles",
+					"invitations",
+					"campuses",
+					"\n    ",
+					"ByInspecting",
+					"Println",
+					"encoding",
+					"AsDel",
+					"sequence_complete",
+					"sequence_begin",
+					"Sequencer",
+					"@welcome",
+					"%",
+					"@welcome",
+					"sequence_complete",
+					"welcome",
+					"\\./scss/foundation",
+					"\\$charcoal",
+					"\\$white",
+					"$white",
+					"See ",
+					"See",
+					"LoadBalancerProbeServer",
+					"LBProbe",
+					"form.",
+					"@form",
+					"f.",
+					"NetworkSecurityGroup",
+					"\"Provision",
+					"\"Provisioned",
+					"\"Provision",
+					"Report",
+					"autoUpgrade",
+					"Version\\(",
+					"handle_enable",
+					"get_target_version",
+					"upgradePolicy",
+					"update_policy",
+					"#",
+					"ExtHandlerInstance",
+					"Version",
+					"ExtensionsConfig",
+					"LooseVersion",
+					"Version",
+					"autoUpgradeMinorVersion",
+					"curr_version",
+					"previous_version",
+					"Extension",
+					"ROOT",
+					"UEFI",
+					"ROOT",
+					"UEFI",
+					"if",
+					"DEVICE",
+					"ExpectedState",
+					"GoalState",
+					"Children",
+					"UpdateAndPublishHostName",
+					"RestartInterface",
+					"publishHostname",
+					"UpdateAndPublishHostName",
+					"setScsiDiskTimeout",
+					"RulesFiles",
+					"EnvMonitor",
+					"Monitor",
+					"setSelinuxEnforce",
+					"def Provision",
+					"UpdateGoalState",
+					"GenerateTransportCert",
+					"initScsiDiskTimeout",
+					"dhcp_enabled",
+					"def isDH",
+					"VMM_CONFIG_FILE_NAME",
+					"NUMA",
+					"agent_files_to_uninstall",
+					"def Install",
+					"def checkDependencies",
+					"RulesFiles",
+					"def Install",
+					"Install",
+					"GuestAgentVersion",
+					"GetMyDistro",
+					"ConfigurationPath",
+					"ConfigurationProvider",
+					"DistInfo",
 					"Paul",
 					"echo\\s\"",
 					"\"\\.\\.\\.",
@@ -844,133 +987,21 @@
 					"ssh_host",
 					"pick",
 					"@zm",
-					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/",
-					"package",
-					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/",
-					"IsSameSlice",
-					"pick",
-					"@pm",
-					"OperationStatus",
-					"ComputeOperationStatus",
-					"OperationStatus",
-					"202",
-					"\\[\\]string",
-					"[]string",
-					"time_zone_validation",
-					"before_validation",
-					"WithErrorUnlessStatusCode",
-					"Subnet",
-					"zones",
-					"Zones",
-					"dns",
-					"/virtualMachines",
-					"VirtualMachineImageResource",
-					"Skus",
-					"x-ms-skip-url-encoding",
-					"Status",
-					"Registration",
-					"RegistrationStatus",
-					"TestClient",
-					"^([^\\w]*)([\\w]+).*$",
-					"AfterDelay",
-					"c.polling",
-					"pollingMode",
-					"Attempts",
-					"mockAuthorizer",
-					"newBody",
-					"allowRefresh",
-					"WithJSON",
-					"AsFormPost",
-					"convention",
-					"By convention",
-					"OK",
-					"setMockToken",
-					"CreatePollR",
-					"PollIfLongRunning",
-					"50",
-					"Attempts",
-					"If",
-					"DoErrorIfStatusCode",
-					"Nanosecond",
-					"NewResponseWithStatus",
-					"addAcceptedHeaders",
-					"DoCloseIfError",
-					"DoErrorIfStatusCode",
-					"DoCloseIfError",
-					"DoErrorUnlessStatusCode",
-					"DoRetryOnMatchedError",
-					"DoErrorIfStatusCode",
-					"DoRetryOnErrorForAttempts",
-					"MaxAttempts",
-					"package",
-					"DoRetryOnErrorForMaxAttempts",
-					"DoRetryOnError",
-					"AzureResourceManagerScope",
-					"WithTokenAuthorization",
-					"NewTokenFromEnv",
-					"newMockToken",
-					"Token",
-					"addLocationToResponse",
-					"long-running",
-					"\",omitempty",
-					"byte",
-					"\\[\\]byte",
-					"skip-url",
-					"PathParameters",
-					" ",
-					"x-ms-pageable",
-					"WorkflowParameter",
-					"\"object\"",
-					"UsageListResult",
-					"Usage",
-					"traffic",
-					"dns",
-					"WithAs",
-					"time.Sleep",
-					"EmitStatus",
-					"Defaults",
-					"Location",
-					"NewResponseWithError",
-					"204",
-					"newBody",
-					"GetAccessToken",
-					"MatcheE",
-					"EmitError",
-					"Json",
-					"strings",
-					"With",
-					"WithErrorForStatusCodes",
-					"WithErr",
-					"NewRequest",
-					"ExampleDateTime",
-					"DateTime",
-					"_dateTime",
-					"Example",
-					"Parse",
-					"CreateResponse",
-					"CreateStandardResponse",
-					"Println(\"",
-					"date:",
-					"2001-02-03",
-					"full-date",
-					"Date",
-					"package",
-					"arm",
-					"BuildUrl",
-					"arm",
-					"queryParameters",
-					"pathParameters",
-					"e.g.",
-					"Text",
-					"pick",
-					",omitempty"
+					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/"
 				],
 				"highlight": true,
-				"in_selection": false,
+				"in_selection": true,
 				"preserve_case": false,
 				"regex": true,
 				"replace_history":
 				[
+					"_duration",
+					"description",
+					"addressed",
+					"time_zone",
+					"country",
+					"state",
+					"city",
 					"logger \"AzLinux Install: ",
 					"\"",
 					"$1\"$2\",",
@@ -1026,7 +1057,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1036,6 +1067,10 @@
 			"output.9o:///Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest":
 			{
 				"height": 94.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 116.0
 			},
 			"output.GoSublime-output":
 			{
@@ -1052,7 +1087,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1062,20 +1097,392 @@
 				"selected_items":
 				[
 					[
-						"gem",
-						"gatherings/Gemfile"
+						"en",
+						"gatherings/config/locales/en.yml"
 					],
 					[
-						"wel",
-						"gatherings/app/assets/stylesheets/welcome.scss.erb"
+						"tag",
+						"gatherings/app/models/concerns/tags.rb"
+					],
+					[
+						"active",
+						"gatherings/app/models/concerns/active_dates.rb"
+					],
+					[
+						"campus",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"camp",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"comm",
+						"gatherings/app/models/community.rb"
+					],
+					[
+						"gateh",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gat",
+						"gatherings/spec/factories/gatherings.rb"
+					],
+					[
+						"addre",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"app",
+						"gatherings/config/application.rb"
+					],
+					[
+						"time",
+						"gatherings/app/models/concerns/time_zone_validator.rb"
+					],
+					[
+						"addres",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"address",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"campuses",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"cam",
+						"gatherings/app/models/campus.rb"
+					],
+					[
+						"seeds",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"see",
+						"gatherings/db/seeds.rb"
 					],
 					[
 						"route",
 						"gatherings/config/routes.rb"
 					],
 					[
-						"app",
-						"gatherings/app/controllers/application_controller.rb"
+						"tags",
+						"gatherings/app/controllers/tags_controller.rb"
+					],
+					[
+						"member",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"mem",
+						"gatherings/app/controllers/members_controller.rb"
+					],
+					[
+						"gath",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"coll",
+						"gatherings/app/views/shared/_collection.html.haml"
+					],
+					[
+						"gem",
+						"gatherings/Gemfile.lock"
+					],
+					[
+						"membership",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"r1",
+						"gatherings/r1"
+					],
+					[
+						"r2",
+						"gatherings/r2"
+					],
+					[
+						"n",
+						"doc/Notes.md"
+					],
+					[
+						"rout",
+						"gatherings/routes"
+					],
+					[
+						"age",
+						"gatherings/app/models/concerns/age_groups.rb"
+					],
+					[
+						"seq",
+						"gatherings/app/controllers/concerns/sequencer.rb"
+					],
+					[
+						"r",
+						"gatherings/r.txt"
+					],
+					[
+						"r.",
+						"gatherings/r.txt"
+					],
+					[
+						"r.t",
+						"r.txt"
+					],
+					[
+						"gathering_con",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"member.",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"ga",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"statu",
+						"gatherings/db/migrate/20160131051714_add_gathering_status.rb"
+					],
+					[
+						"en.",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"seed",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"wel",
+						"gatherings/app/controllers/welcome_controller.rb"
+					],
+					[
+						"gather",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gathering",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"en.y",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"edit",
+						"gatherings/app/views/gatherings/edit.html.haml"
+					],
+					[
+						"new",
+						"gatherings/app/views/campuses/new.html.haml"
+					],
+					[
+						"repo",
+						"gatherings/app/views/communities/report.html.haml"
+					],
+					[
+						"dropol",
+						"gatherings/db/migrate/20160130014102_drop_old_memberships.rb"
+					],
+					[
+						"gathe",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"addu",
+						"gatherings/db/migrate/20160130011830_add_unique_membership.rb"
+					],
+					[
+						"sche",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"add_m",
+						"gatherings/db/migrate/20160130010716_add_memberships.rb"
+					],
+					[
+						"routes.r",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"role",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"routes",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"date",
+						"lib/extensions/date_extensions.rb"
+					],
+					[
+						"string",
+						"gatherings/lib/extensions/string_extensions.rb"
+					],
+					[
+						"commun",
+						"gatherings/app/models/community_membership.rb"
+					],
+					[
+						"campu",
+						"gatherings/app/models/campus_membership.rb"
+					],
+					[
+						"att",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"fixro",
+						"gatherings/db/migrate/20160128030730_fix_roles.rb"
+					],
+					[
+						"rol",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"roles",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"changerol",
+						"gatherings/db/migrate/20160128014112_change_roles_to_strings.rb"
+					],
+					[
+						"remove",
+						"gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb"
+					],
+					[
+						"update",
+						"gatherings/db/migrate/20160128012111_update_membership_tables.rb"
+					],
+					[
+						"memb",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"gatherin",
+						"gatherings/app/models/gathering_membership.rb"
+					],
+					[
+						"chan",
+						"gatherings/db/migrate/20160126155923_change_member_to_membership.rb"
+					],
+					[
+						"rel",
+						"gatherings/app/models/concerns/relationships.rb"
+					],
+					[
+						"gen",
+						"gatherings/app/models/concerns/genders.rb"
+					],
+					[
+						"lif",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"sch",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"corr",
+						"gatherings/db/migrate/20160126043343_correct_roles.rb"
+					],
+					[
+						"g",
+						"gatherings/Gemfile"
+					],
+					[
+						"atte",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"gathr",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"un",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"uni",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"ut",
+						"autorest/utility_test.go"
+					],
+					[
+						"respo",
+						"autorest/responder_test.go"
+					],
+					[
+						"ap",
+						"gatherings/config/application.rb"
+					],
+					[
+						"asses",
+						"gatherings/config/initializers/assets.rb"
+					],
+					[
+						"produ",
+						"gatherings/config/environments/production.rb"
+					],
+					[
+						"re",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"regist",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"bower.j",
+						"gatherings/bower.json"
+					],
+					[
+						"deve",
+						"gatherings/config/environments/development.rb"
+					],
+					[
+						"_header",
+						"gatherings/app/views/layouts/_header.html.haml"
+					],
+					[
+						"note",
+						"doc/Notes.md"
+					],
+					[
+						"application",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"_head",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"life",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"wa",
+						"waagent"
+					],
+					[
+						"waa",
+						"waagent"
+					],
+					[
+						"exten",
+						"azurelinuxagent/distro/default/extension.py"
+					],
+					[
+						"li",
+						"LICENSE-2.0.txt"
 					],
 					[
 						"no",
@@ -1094,10 +1501,6 @@
 						"gatherings/app/models/concerns/zoneable.rb"
 					],
 					[
-						"ga",
-						"gatherings/app/models/gathering.rb"
-					],
-					[
 						"pa",
 						"gatherings/app/models/concerns/pathable.rb"
 					],
@@ -1112,14 +1515,6 @@
 					[
 						"sea",
 						"arm-search/2015-02-28/swagger/search.json"
-					],
-					[
-						"mem",
-						"gatherings/app/models/member.rb"
-					],
-					[
-						"gat",
-						"gatherings/app/models/gathering.rb"
 					],
 					[
 						"ser",
@@ -1212,366 +1607,6 @@
 					[
 						"respte",
 						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"reste",
-						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"help",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"client",
-						"azure/azure-sdk-for-go/arm/compute/client.go"
-					],
-					[
-						"client.g",
-						"azure/azure-sdk-for-go/storage/client.go"
-					],
-					[
-						"res",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"pret",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"tokete",
-						"azure/go-autorest/autorest/azure/token_test.go"
-					],
-					[
-						"prete",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"prep",
-						"azure/go-autorest/autorest/preparer.go"
-					],
-					[
-						"sendte",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mocks.",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"sente",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"prepate",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"auto",
-						"azure/go-autorest/autorest/autorest.go"
-					],
-					[
-						"responder.g",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"comte",
-						"brendandixon/sdk/compute/compute_test.go"
-					],
-					[
-						"sub",
-						"brendandixon/sdk/subscriptions/subscriptions_test.go"
-					],
-					[
-						"stroage",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"subte",
-						"brendandixon/sdk/subscriptions/subscriptions_test.go"
-					],
-					[
-						"hel",
-						"brendandixon/sdk/helper.go"
-					],
-					[
-						"sto",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"stor",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"storage/s",
-						"brendandixon/sdk/storage/storage.go"
-					],
-					[
-						"tokt",
-						"azure/go-autorest/autorest/token_test.go"
-					],
-					[
-						"tokte",
-						"azure/go-autorest/autorest/token_test.go"
-					],
-					[
-						"prepte",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"date",
-						"azure/go-autorest/autorest/date/date.go"
-					],
-					[
-						"sendt",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"autote",
-						"azure/go-autorest/autorest/autorest_test.go"
-					],
-					[
-						"autorest_t",
-						"azure/go-autorest/autorest/autorest_test.go"
-					],
-					[
-						"toke",
-						"azure/go-autorest/autorest/token.go"
-					],
-					[
-						"utility",
-						"azure/go-autorest/autorest/utility_test.go"
-					],
-					[
-						"test.",
-						"brendandixon/test/test.go"
-					],
-					[
-						"test",
-						"brendandixon/sdk/test.go"
-					],
-					[
-						"test.g",
-						"brendandixon/go-tour/test.go"
-					],
-					[
-						"prepar",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"sender_t",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mode",
-						"azure/azure-sdk-for-go/arm/storage/models.go"
-					],
-					[
-						"sender_",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mo",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"he",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"helpers",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"utili",
-						"azure/go-autorest/autorest/utility_test.go"
-					],
-					[
-						"respond",
-						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"mocks.g",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"respo",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"prepare",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"read",
-						"azure/go-autorest/README.md"
-					],
-					[
-						"to",
-						"azure/go-autorest/autorest/token.go"
-					],
-					[
-						"10",
-						"10basics"
-					],
-					[
-						"date_te",
-						"azure/azure-sdk-for-go/arm/date/date_test.go"
-					],
-					[
-						"pip",
-						"brendandixon/sdk/pipeline.go"
-					],
-					[
-						"uti",
-						"azure/autorest-go/utility_test.go"
-					],
-					[
-						"comm",
-						"azure/azure-sdk-for-go/arm/common.go"
-					],
-					[
-						"common_te",
-						"azure/azure-sdk-for-go/arm/common_test.go"
-					],
-					[
-						"common",
-						"azure/azure-sdk-for-go/arm/common.go"
-					],
-					[
-						"arm/mo",
-						"azure/azure-sdk-for-go/arm/storage/models.go"
-					],
-					[
-						"arm/clie",
-						"azure/azure-sdk-for-go/arm/storage/client.go"
-					],
-					[
-						"ut",
-						"vhd/util.go"
-					],
-					[
-						"tok",
-						"token.json"
-					],
-					[
-						"mk",
-						"mkvhd.go"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"vm",
-						"vm"
-					],
-					[
-						"ans",
-						"pkg/term/windows/ansi.go"
-					],
-					[
-						"ansi_",
-						"pkg/term/windows/ansi_reader.go"
-					],
-					[
-						"10basi",
-						".bashrc.d/10basics"
-					],
-					[
-						"10bas",
-						".bashrc.d/10basics"
-					],
-					[
-						".bash",
-						".bashrc"
-					],
-					[
-						".bashrc",
-						".bashrc"
-					],
-					[
-						".bash_pr",
-						".bash_profile"
-					],
-					[
-						"02t",
-						".bashrc.d/02test"
-					],
-					[
-						".bas",
-						".bashrc"
-					],
-					[
-						".ba",
-						".bashrc"
-					],
-					[
-						"lex",
-						"src/net/http/lex.go"
-					],
-					[
-						"az",
-						"azure.go"
-					],
-					[
-						"windo",
-						"pkg/term/windows/windows.go"
-					],
-					[
-						"ap",
-						"pkg/term/windows/api.go"
-					],
-					[
-						"api",
-						"pkg/term/windows/api.go"
-					],
-					[
-						"ansi",
-						"pkg/term/windows/ansi_writer.go"
-					],
-					[
-						"conso",
-						"pkg/term/windows/console.go"
-					],
-					[
-						"ansi_wr",
-						"pkg/term/windows/ansi_writer.go"
-					],
-					[
-						"ansi_re",
-						"pkg/term/windows/ansi_reader.go"
-					],
-					[
-						"term",
-						"pkg/term/term_windows.go"
-					],
-					[
-						"ansite",
-						"pkg/term/windows/ansi_test.go"
-					],
-					[
-						"an",
-						"pkg/term/windows/ansi.go"
-					],
-					[
-						"apitests.op",
-						"AutoRest/Modelers/Swagger.Tests/Expected/Expected/ApiTests.OptionalParameters.cs"
-					],
-					[
-						"gotype",
-						"AutoRest/CodeGenerators/Golang/Visitors/GoTypeRewritingCodeVisitor.cs"
-					],
-					[
-						"assembl",
-						"AutoRest/CodeGenerators/Golang/Properties/AssemblyInfo.cs"
-					],
-					[
-						"goty",
-						"AutoRest/CodeGenerators/Golang/GoTypes.cs"
-					],
-					[
-						"gocodewr",
-						"AutoRest/CodeGenerators/Golang/GoCodeWriter.cs"
 					]
 				],
 				"width": 0.0
@@ -1598,13 +1633,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 268.0,
+			"side_bar_width": 265.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1589.0
+		"new_window_width": 1569.0
 	},
 	"windows":
 	[
@@ -1613,6 +1648,194 @@
 			{
 				"selected_items":
 				[
+					[
+						"max",
+						"maximum"
+					],
+					[
+						"min",
+						"mininum"
+					],
+					[
+						"mi",
+						"mininum"
+					],
+					[
+						"va",
+						"validates_numericality_of"
+					],
+					[
+						"meeting",
+						"meeting_time"
+					],
+					[
+						"be",
+						"beginning_of_day"
+					],
+					[
+						"mee",
+						"meeting_ends"
+					],
+					[
+						"end",
+						"end_of_day"
+					],
+					[
+						"validates",
+						"validates_datetime"
+					],
+					[
+						"me",
+						"meeting_starts"
+					],
+					[
+						"stree_",
+						"street_primary"
+					],
+					[
+						"co",
+						"community"
+					],
+					[
+						"coll",
+						"collection"
+					],
+					[
+						"resource",
+						"resource_type"
+					],
+					[
+						"collection",
+						"collection_member"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"par",
+						"as_participant"
+					],
+					[
+						"member",
+						"memberships"
+					],
+					[
+						"Co",
+						"CommunityMembership"
+					],
+					[
+						"make",
+						"make_participant"
+					],
+					[
+						"change",
+						"change_column"
+					],
+					[
+						"comm",
+						"community_memberships"
+					],
+					[
+						"Campus",
+						"CampusGathering"
+					],
+					[
+						"gah",
+						"gathering_members"
+					],
+					[
+						"commu",
+						"community_members"
+					],
+					[
+						"En",
+						"EncodedAsJSON	 Ɩ"
+					],
+					[
+						"loo",
+						"lookup_context"
+					],
+					[
+						"Ba",
+						"BASEDATE"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"ens",
+						"ensure_flushed"
+					],
+					[
+						"DEVIC",
+						"DEVICE_BOOT"
+					],
+					[
+						"en",
+						"ensure_unmounted"
+					],
+					[
+						"UUI",
+						"UUID_ROOT"
+					],
+					[
+						"FORM",
+						"FORMAT_UEFI"
+					],
+					[
+						"MOUN",
+						"MOUNT_DATA"
+					],
+					[
+						"DE",
+						"DEVICE_DATA"
+					],
+					[
+						"MOUNT",
+						"MOUNT_UEFI"
+					],
+					[
+						"FORMAT",
+						"FORMAT_UEFI"
+					],
+					[
+						"format",
+						"format_partition"
+					],
+					[
+						"DEVI",
+						"DEVICE_BOOT"
+					],
+					[
+						"TYPE",
+						"TYPE_LINUX"
+					],
+					[
+						"MiB",
+						"MiB_SWAP"
+					],
+					[
+						"Gi",
+						"GiB_ROOT"
+					],
+					[
+						"type",
+						"TYPE_MBR"
+					],
+					[
+						"BOOT",
+						"BOOTSTYLE"
+					],
+					[
+						"GiB_",
+						"GiB_SWAP"
+					],
+					[
+						"Determin",
+						"Determining"
+					],
 					[
 						"text",
 						"text-transform"
@@ -1628,10 +1851,6 @@
 					[
 						"no",
 						"nowrap"
-					],
-					[
-						"margin",
-						"margin-bottom"
 					],
 					[
 						"UE",
@@ -1940,193 +2159,36 @@
 					[
 						"Do",
 						"DoErrorIfStatusCode	SendDecorator ƒ"
-					],
-					[
-						"DoRE",
-						"DoRetryOnStatusCodesForDuration	SendDecorator ƒ"
-					],
-					[
-						"DoRetr",
-						"DoRetryOnErrorForMaxDuration	SendDecorator ƒ"
-					],
-					[
-						"DoRe",
-						"DoRetryOnErrorForMaxAttempts	SendDecorator ƒ"
-					],
-					[
-						"Rs",
-						"Respond	error ƒ"
-					],
-					[
-						"Crea",
-						"CreatePollingRequest	*http.Request, time.Duration, error ƒ"
-					],
-					[
-						"expi",
-						"expireIn	time.Duration ν"
-					],
-					[
-						"setTokenTo",
-						"setTokenToExpireAt	*Token ƒ"
-					],
-					[
-						"A",
-						"After	bool ƒ"
-					],
-					[
-						"Exp",
-						"ExpiresIn	string ν"
-					],
-					[
-						"exp",
-						"expireAt	time.Time ν"
-					],
-					[
-						"Po",
-						"PollUntilStatusCode	*http.Response, error ƒ"
-					],
-					[
-						"ex",
-						"expireIn	time.Duration ν"
-					],
-					[
-						"Sprint",
-						"Sprintf	string ƒ"
-					],
-					[
-						"set",
-						"setTokenToExpireIn	*Token ƒ"
-					],
-					[
-						"c",
-						"clientId	string ν"
-					],
-					[
-						"LoadBal",
-						"LoadBalancersClient	struct ʈ"
-					],
-					[
-						"LOg",
-						"Logf	 ƒ"
-					],
-					[
-						"ensu",
-						"ensureTenantsClient	 ƒ"
-					],
-					[
-						"er",
-						"Errorf	 ƒ"
-					],
-					[
-						"St",
-						"StorageAccountCheckNameAvailabilityParameters	struct ʈ"
-					],
-					[
-						"Respon",
-						"Respond	error ƒ"
-					],
-					[
-						"Err",
-						"Errorf	 ƒ"
-					],
-					[
-						"head",
-						"headerRetryAfter	 Ɩ"
-					],
-					[
-						"Mar",
-						"MarshalIndent	[]byte, error ƒ"
-					],
-					[
-						"sub",
-						"subscriptionId	 Ɩ"
-					],
-					[
-						"ensure",
-						"ensureValueStrings	map[string]string ƒ"
-					],
-					[
-						"WithPa",
-						"WithPathParameters	PrepareDecorator ƒ"
-					],
-					[
-						"Ma",
-						"MarshalIndent	[]byte, error ƒ"
-					],
-					[
-						"Dog",
-						"DogProperties	struct ʈ"
-					],
-					[
-						"Rea",
-						"ReadAll	[]byte, error ƒ"
-					],
-					[
-						"e",
-						"Errorf	 ƒ"
-					],
-					[
-						"Stora",
-						"StorageAccountCreateParameters	struct ʈ"
-					],
-					[
-						"Mi",
-						"Millisecond	 Ɩ"
-					],
-					[
-						"print",
-						"Printf	n int, err error ƒ"
-					],
-					[
-						"sp",
-						"Sprintf	string ƒ"
-					],
-					[
-						"con",
-						"containsInt	bool ƒ"
-					],
-					[
-						"en",
-						"envToken	 Ɩ"
-					],
-					[
-						"WithB",
-						"WithBearerAuthorization	PrepareDecorator ƒ"
-					],
-					[
-						"Par",
-						"ParseDuration	time.Duration, error ƒ"
-					],
-					[
-						"ret",
-						"retrySeconds	int ν"
-					],
-					[
-						"Deco",
-						"DecorateSender	Sender ƒ"
-					],
-					[
-						"DoE",
-						"DoErrorUnlessStatusCode	SendDecorator ƒ"
-					],
-					[
-						"S",
-						"Second	 Ɩ"
-					],
-					[
-						"DoRetryOn",
-						"DoRetryOnMatchedError	SendDecorator ƒ"
-					],
-					[
-						"Prepar",
-						"PrepareDecorator	func(Preparer) Preparer ʈ"
-					],
-					[
-						"WithError",
-						"WithErrorForStatusCodes	SendDecorator ƒ"
 					]
 				]
 			},
+			"buffers":
+			[
+				{
+					"file": "/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
+					"settings":
+					{
+						"buffer_size": 4625,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/brendan/Code/thegatherings/gatherings/spec/models/gathering_spec.rb",
+					"settings":
+					{
+						"buffer_size": 9415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/brendan/Code/thegatherings/gatherings/spec/factories/gatherings.rb",
+					"settings":
+					{
+						"buffer_size": 1883,
+						"line_ending": "Unix"
+					}
+				}
+			],
 			"build_system": "",
 			"build_system_choices":
 			[
@@ -2134,10 +2196,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "Pac",
+				"height": 400.0,
+				"last_filter": "in",
 				"selected_items":
 				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
 					[
 						"Pac",
 						"Package Control: Install Package"
@@ -2175,7 +2241,7 @@
 						"Pretty JSON: Format (Pretty Print) JSON"
 					]
 				],
-				"width": 467.0
+				"width": 475.0
 			},
 			"console":
 			{
@@ -2198,146 +2264,157 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Users/brendan/Code/thegatherings",
+				"/Users/brendan/Code/thegatherings/gatherings",
+				"/Users/brendan/Code/thegatherings/gatherings/app",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models",
+				"/Users/brendan/Code/thegatherings/gatherings/spec",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/factories",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models"
+			],
 			"file_history":
 			[
-				"/Users/brendan/Code/thegatherings/doc/Features.md",
-				"/Users/brendan/Code/thegatherings/README.md",
-				"/Users/brendan/Code/thegatherings/doc/Notes.md",
-				"/Users/brendan/.ssh/config",
-				"/Users/brendan/Code/thegatherings/gatherings/app/assets/stylesheets/base_settings.scss",
-				"/Users/brendan/Code/thegatherings/gatherings/app/assets/stylesheets/welcome.scss.erb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/welcome/index.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/application.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_notice.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/Gemfile",
-				"/Users/brendan/Code/thegatherings/gatherings/config/routes.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/rails_helper.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/application_controller.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/devise/registrations/edit.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/views/devise/registrations/new.html.haml",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/member.rb",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/adal.js",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/authentication-context.js",
-				"/Users/brendan/Code/azure-activedirectory-library-for-nodejs/lib/token-request.js",
-				"/Users/brendan/Desktop/Linux/S085unpack-azlinux",
-				"/Users/brendan/Code/thegatherings/gatherings/config/initializers/omniauth.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/config.ru",
-				"/Users/brendan/Code/docker/Ubuntu/Dockerfile",
-				"/Users/brendan/Code/thegatherings/gatherings/Dockerfile",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/pathable.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/.git/COMMIT_EDITMSG",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/.git/rebase-merge/git-rebase-todo",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/time_zone_validator.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/zoneable_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/time_zone_validator_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/zoneable.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/model_concerns/pathable_spec.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/responder_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/helpers.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/.git/COMMIT_EDITMSG",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/.git/rebase-merge/git-rebase-todo",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/models/gathering_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/spec/models/concern/pathable_spec.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/Rakefile",
-				"/Users/brendan/Code/thegatherings/gatherings/lib/tasks/annotate.rake",
-				"/Users/brendan/Code/thegatherings/gatherings/.rspec",
-				"/Users/brendan/Code/thegatherings/.gitignore",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-search/2015-02-28/swagger/search.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/examples/check.go",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/path_validator.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/app/models/member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/locales/en.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/tags.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/active_dates.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/factories/campuses.rb",
 				"/Users/brendan/Code/thegatherings/gatherings/app/models/community.rb",
-				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20150924021937_add_belongs_to_community_gatherings.rb",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/network/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/network/subnets.go",
-				"/Users/brendan/Desktop/inspector.go",
-				"/Users/brendan/Code/thegatherings/doc/Architecture.md",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/brendan/Code/thegatherings/Architecture.md",
-				"/Users/brendan/Code/thegatherings/gatherings/Procfile",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-storage/2015-05-01-preview/swagger/storage.json",
-				"/Users/brendan/Code/azure-rest-api-specs/arm-web/2015-08-01/swagger/service.json",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/client_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/responder.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/preparer.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/sender.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/storage/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/storage/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/response.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/response.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage/storage_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/Rakefile",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/sender_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/storage/client_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/helper.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/autorest_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/autorest.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/mocks/mocks.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/token_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/azure.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/errs",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/compute/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/storage/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/preparer_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/LICENSE",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/azure/mocks.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/authorizer.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/authorizer_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/credentials.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/network/network_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/compute/compute_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/subscriptions/subscriptions_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sdk_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sdk.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage/storage.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/storage.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/subscriptions.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/token_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/date.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/token.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-storage/2015-05-01-preview/swagger/storage.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-compute/2015-06-15/swagger/compute.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/subscriptions/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/subscriptions/client.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/test/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/utility_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/utility.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-subscriptions/2014-04-01-preview/swagger/subscriptions.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/authorization/client.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/logic/models.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-logic/2015-02-01-preview/swagger/logic.json",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-authorization/2015-01-01/swagger/authorization.json",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/go-tour/test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs/arm-network/2015-05-01-preview/swagger/network.json",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/sample.go",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/README.md",
-				"/Users/brendan/Code/go/src/github.com/golang/go/README",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/datetime_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/date_test.go",
-				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/log.txt",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/date/datetime.go",
-				"/Users/brendan/.bashrc",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/datetime/datetime.go",
-				"/Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest/datetime/datetime_test.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/date/date_test.go",
-				"/Users/brendan/Code/go/src/github.com/brendandixon/sdk/pipeline.go",
-				"/Users/brendan/Code/go/src/github.com/azure/azure-sdk-for-go/arm/date/date.go"
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/campus_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/time_zone_validator.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/addressed.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/application.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/community_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/seeds.rb",
+				"/Users/brendan/Code/thegatherings/doc/Routes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/config/routes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/tags_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/communities_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_footer.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/_form.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/report.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/gatherings_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/tags/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_collection.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile.lock",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r1",
+				"/Users/brendan/Code/thegatherings/gatherings/r2",
+				"/Users/brendan/Code/thegatherings/doc/Notes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/routes",
+				"/Users/brendan/Code/thegatherings/gatherings/r",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/age_groups.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/welcome_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/concerns/sequencer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/member_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/community_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controllers.rb",
+				"/Users/brendan/Code/thegatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160131051714_add_gathering_status.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/gathering_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/relationships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/life_stages.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/genders.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/campus_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/application_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/membership_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130014102_drop_old_memberships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/schema.rb",
+				"/Users/brendan/Code/thegatherings/doc/Roles.md",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130011830_add_unique_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130010716_add_memberships.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/date_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/string_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/attendance_record.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128030730_fix_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128014112_change_roles_to_strings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128012111_update_membership_tables.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126155923_change_member_to_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/initializers/authority.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126043343_correct_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campuses_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/unique_id.rb",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliate.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042302_create_invitations.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042810_create_appearances.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121040710_add_missing_indexes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035527_create_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035831_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121034136_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121033054_add_mininum_maximum_members_to_gathering.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/client.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/autorest.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/error.go",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility_test.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder_test.go",
+				"/usr/local/Library/Formula/go.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/application.js",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/jquery-with-rails-ujs.js",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml.new",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/_header.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/layouts/_footer.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/charts.js"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/Users/brendan/Code/thegatherings/gatherings/app",
 					"",
 					"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs",
 					"",
@@ -2352,6 +2429,125 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"_time",
+					"TIME_BASE",
+					"name",
+					"campus",
+					"Campus",
+					"@campus",
+					"country",
+					"state",
+					"city",
+					"street_primary",
+					"street",
+					"create",
+					"_url",
+					"members#de",
+					":collection",
+					"puts",
+					"\\?",
+					"ROLES",
+					"include Roles",
+					"Roles",
+					"{g}",
+					"participant",
+					"ROLE_NAMES",
+					".today",
+					"invitation",
+					"appearances",
+					"affiliate",
+					"affiliations",
+					"unaffiliated_on",
+					"affliated_on",
+					"affiliation",
+					"primary",
+					"requests",
+					"affilliations",
+					"_roles",
+					"invitations",
+					"campuses",
+					"\n    ",
+					"ByInspecting",
+					"Println",
+					"encoding",
+					"AsDel",
+					"sequence_complete",
+					"sequence_begin",
+					"Sequencer",
+					"@welcome",
+					"%",
+					"@welcome",
+					"sequence_complete",
+					"welcome",
+					"\\./scss/foundation",
+					"\\$charcoal",
+					"\\$white",
+					"$white",
+					"See ",
+					"See",
+					"LoadBalancerProbeServer",
+					"LBProbe",
+					"form.",
+					"@form",
+					"f.",
+					"NetworkSecurityGroup",
+					"\"Provision",
+					"\"Provisioned",
+					"\"Provision",
+					"Report",
+					"autoUpgrade",
+					"Version\\(",
+					"handle_enable",
+					"get_target_version",
+					"upgradePolicy",
+					"update_policy",
+					"#",
+					"ExtHandlerInstance",
+					"Version",
+					"ExtensionsConfig",
+					"LooseVersion",
+					"Version",
+					"autoUpgradeMinorVersion",
+					"curr_version",
+					"previous_version",
+					"Extension",
+					"ROOT",
+					"UEFI",
+					"ROOT",
+					"UEFI",
+					"if",
+					"DEVICE",
+					"ExpectedState",
+					"GoalState",
+					"Children",
+					"UpdateAndPublishHostName",
+					"RestartInterface",
+					"publishHostname",
+					"UpdateAndPublishHostName",
+					"setScsiDiskTimeout",
+					"RulesFiles",
+					"EnvMonitor",
+					"Monitor",
+					"setSelinuxEnforce",
+					"def Provision",
+					"UpdateGoalState",
+					"GenerateTransportCert",
+					"initScsiDiskTimeout",
+					"dhcp_enabled",
+					"def isDH",
+					"VMM_CONFIG_FILE_NAME",
+					"NUMA",
+					"agent_files_to_uninstall",
+					"def Install",
+					"def checkDependencies",
+					"RulesFiles",
+					"def Install",
+					"Install",
+					"GuestAgentVersion",
+					"GetMyDistro",
+					"ConfigurationPath",
+					"ConfigurationProvider",
+					"DistInfo",
 					"Paul",
 					"echo\\s\"",
 					"\"\\.\\.\\.",
@@ -2360,133 +2556,21 @@
 					"ssh_host",
 					"pick",
 					"@zm",
-					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/",
-					"package",
-					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/",
-					"IsSameSlice",
-					"pick",
-					"@pm",
-					"OperationStatus",
-					"ComputeOperationStatus",
-					"OperationStatus",
-					"202",
-					"\\[\\]string",
-					"[]string",
-					"time_zone_validation",
-					"before_validation",
-					"WithErrorUnlessStatusCode",
-					"Subnet",
-					"zones",
-					"Zones",
-					"dns",
-					"/virtualMachines",
-					"VirtualMachineImageResource",
-					"Skus",
-					"x-ms-skip-url-encoding",
-					"Status",
-					"Registration",
-					"RegistrationStatus",
-					"TestClient",
-					"^([^\\w]*)([\\w]+).*$",
-					"AfterDelay",
-					"c.polling",
-					"pollingMode",
-					"Attempts",
-					"mockAuthorizer",
-					"newBody",
-					"allowRefresh",
-					"WithJSON",
-					"AsFormPost",
-					"convention",
-					"By convention",
-					"OK",
-					"setMockToken",
-					"CreatePollR",
-					"PollIfLongRunning",
-					"50",
-					"Attempts",
-					"If",
-					"DoErrorIfStatusCode",
-					"Nanosecond",
-					"NewResponseWithStatus",
-					"addAcceptedHeaders",
-					"DoCloseIfError",
-					"DoErrorIfStatusCode",
-					"DoCloseIfError",
-					"DoErrorUnlessStatusCode",
-					"DoRetryOnMatchedError",
-					"DoErrorIfStatusCode",
-					"DoRetryOnErrorForAttempts",
-					"MaxAttempts",
-					"package",
-					"DoRetryOnErrorForMaxAttempts",
-					"DoRetryOnError",
-					"AzureResourceManagerScope",
-					"WithTokenAuthorization",
-					"NewTokenFromEnv",
-					"newMockToken",
-					"Token",
-					"addLocationToResponse",
-					"long-running",
-					"\",omitempty",
-					"byte",
-					"\\[\\]byte",
-					"skip-url",
-					"PathParameters",
-					" ",
-					"x-ms-pageable",
-					"WorkflowParameter",
-					"\"object\"",
-					"UsageListResult",
-					"Usage",
-					"traffic",
-					"dns",
-					"WithAs",
-					"time.Sleep",
-					"EmitStatus",
-					"Defaults",
-					"Location",
-					"NewResponseWithError",
-					"204",
-					"newBody",
-					"GetAccessToken",
-					"MatcheE",
-					"EmitError",
-					"Json",
-					"strings",
-					"With",
-					"WithErrorForStatusCodes",
-					"WithErr",
-					"NewRequest",
-					"ExampleDateTime",
-					"DateTime",
-					"_dateTime",
-					"Example",
-					"Parse",
-					"CreateResponse",
-					"CreateStandardResponse",
-					"Println(\"",
-					"date:",
-					"2001-02-03",
-					"full-date",
-					"Date",
-					"package",
-					"arm",
-					"BuildUrl",
-					"arm",
-					"queryParameters",
-					"pathParameters",
-					"e.g.",
-					"Text",
-					"pick",
-					",omitempty"
+					"github.com/azure/azure-sdk-for-go/arm/Godeps/_workspace/src/"
 				],
 				"highlight": true,
-				"in_selection": false,
+				"in_selection": true,
 				"preserve_case": false,
 				"regex": true,
 				"replace_history":
 				[
+					"_duration",
+					"description",
+					"addressed",
+					"time_zone",
+					"country",
+					"state",
+					"city",
 					"logger \"AzLinux Install: ",
 					"\"",
 					"$1\"$2\",",
@@ -2540,9 +2624,112 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/brendan/Code/thegatherings"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4625,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4601,
+										4601
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1698.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/brendan/Code/thegatherings/gatherings/spec/models/gathering_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1496,
+										1496
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/brendan/Code/thegatherings/gatherings/spec/factories/gatherings.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1883,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1668,
+										1668
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 150.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -2575,6 +2762,10 @@
 			{
 				"height": 94.0
 			},
+			"output.GoSublime-main-output":
+			{
+				"height": 116.0
+			},
 			"output.GoSublime-output":
 			{
 				"height": 94.0
@@ -2588,10 +2779,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0 408 245 1589 1161 0 0 2560 1417 ",
+			"position": "0 563 95 1569 1316 0 0 2560 1417 ",
+			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2601,20 +2793,392 @@
 				"selected_items":
 				[
 					[
-						"gem",
-						"gatherings/Gemfile"
+						"en",
+						"gatherings/config/locales/en.yml"
 					],
 					[
-						"wel",
-						"gatherings/app/assets/stylesheets/welcome.scss.erb"
+						"tag",
+						"gatherings/app/models/concerns/tags.rb"
+					],
+					[
+						"active",
+						"gatherings/app/models/concerns/active_dates.rb"
+					],
+					[
+						"campus",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"camp",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"comm",
+						"gatherings/app/models/community.rb"
+					],
+					[
+						"gateh",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gat",
+						"gatherings/spec/factories/gatherings.rb"
+					],
+					[
+						"addre",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"app",
+						"gatherings/config/application.rb"
+					],
+					[
+						"time",
+						"gatherings/app/models/concerns/time_zone_validator.rb"
+					],
+					[
+						"addres",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"address",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"campuses",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"cam",
+						"gatherings/app/models/campus.rb"
+					],
+					[
+						"seeds",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"see",
+						"gatherings/db/seeds.rb"
 					],
 					[
 						"route",
 						"gatherings/config/routes.rb"
 					],
 					[
-						"app",
-						"gatherings/app/controllers/application_controller.rb"
+						"tags",
+						"gatherings/app/controllers/tags_controller.rb"
+					],
+					[
+						"member",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"mem",
+						"gatherings/app/controllers/members_controller.rb"
+					],
+					[
+						"gath",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"coll",
+						"gatherings/app/views/shared/_collection.html.haml"
+					],
+					[
+						"gem",
+						"gatherings/Gemfile.lock"
+					],
+					[
+						"membership",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"r1",
+						"gatherings/r1"
+					],
+					[
+						"r2",
+						"gatherings/r2"
+					],
+					[
+						"n",
+						"doc/Notes.md"
+					],
+					[
+						"rout",
+						"gatherings/routes"
+					],
+					[
+						"age",
+						"gatherings/app/models/concerns/age_groups.rb"
+					],
+					[
+						"seq",
+						"gatherings/app/controllers/concerns/sequencer.rb"
+					],
+					[
+						"r",
+						"gatherings/r.txt"
+					],
+					[
+						"r.",
+						"gatherings/r.txt"
+					],
+					[
+						"r.t",
+						"r.txt"
+					],
+					[
+						"gathering_con",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"member.",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"ga",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"statu",
+						"gatherings/db/migrate/20160131051714_add_gathering_status.rb"
+					],
+					[
+						"en.",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"seed",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"wel",
+						"gatherings/app/controllers/welcome_controller.rb"
+					],
+					[
+						"gather",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gathering",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"en.y",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"edit",
+						"gatherings/app/views/gatherings/edit.html.haml"
+					],
+					[
+						"new",
+						"gatherings/app/views/campuses/new.html.haml"
+					],
+					[
+						"repo",
+						"gatherings/app/views/communities/report.html.haml"
+					],
+					[
+						"dropol",
+						"gatherings/db/migrate/20160130014102_drop_old_memberships.rb"
+					],
+					[
+						"gathe",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"addu",
+						"gatherings/db/migrate/20160130011830_add_unique_membership.rb"
+					],
+					[
+						"sche",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"add_m",
+						"gatherings/db/migrate/20160130010716_add_memberships.rb"
+					],
+					[
+						"routes.r",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"role",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"routes",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"date",
+						"lib/extensions/date_extensions.rb"
+					],
+					[
+						"string",
+						"gatherings/lib/extensions/string_extensions.rb"
+					],
+					[
+						"commun",
+						"gatherings/app/models/community_membership.rb"
+					],
+					[
+						"campu",
+						"gatherings/app/models/campus_membership.rb"
+					],
+					[
+						"att",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"fixro",
+						"gatherings/db/migrate/20160128030730_fix_roles.rb"
+					],
+					[
+						"rol",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"roles",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"changerol",
+						"gatherings/db/migrate/20160128014112_change_roles_to_strings.rb"
+					],
+					[
+						"remove",
+						"gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb"
+					],
+					[
+						"update",
+						"gatherings/db/migrate/20160128012111_update_membership_tables.rb"
+					],
+					[
+						"memb",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"gatherin",
+						"gatherings/app/models/gathering_membership.rb"
+					],
+					[
+						"chan",
+						"gatherings/db/migrate/20160126155923_change_member_to_membership.rb"
+					],
+					[
+						"rel",
+						"gatherings/app/models/concerns/relationships.rb"
+					],
+					[
+						"gen",
+						"gatherings/app/models/concerns/genders.rb"
+					],
+					[
+						"lif",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"sch",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"corr",
+						"gatherings/db/migrate/20160126043343_correct_roles.rb"
+					],
+					[
+						"g",
+						"gatherings/Gemfile"
+					],
+					[
+						"atte",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"gathr",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"un",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"uni",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"ut",
+						"autorest/utility_test.go"
+					],
+					[
+						"respo",
+						"autorest/responder_test.go"
+					],
+					[
+						"ap",
+						"gatherings/config/application.rb"
+					],
+					[
+						"asses",
+						"gatherings/config/initializers/assets.rb"
+					],
+					[
+						"produ",
+						"gatherings/config/environments/production.rb"
+					],
+					[
+						"re",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"regist",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"bower.j",
+						"gatherings/bower.json"
+					],
+					[
+						"deve",
+						"gatherings/config/environments/development.rb"
+					],
+					[
+						"_header",
+						"gatherings/app/views/layouts/_header.html.haml"
+					],
+					[
+						"note",
+						"doc/Notes.md"
+					],
+					[
+						"application",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"_head",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"life",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"wa",
+						"waagent"
+					],
+					[
+						"waa",
+						"waagent"
+					],
+					[
+						"exten",
+						"azurelinuxagent/distro/default/extension.py"
+					],
+					[
+						"li",
+						"LICENSE-2.0.txt"
 					],
 					[
 						"no",
@@ -2633,10 +3197,6 @@
 						"gatherings/app/models/concerns/zoneable.rb"
 					],
 					[
-						"ga",
-						"gatherings/app/models/gathering.rb"
-					],
-					[
 						"pa",
 						"gatherings/app/models/concerns/pathable.rb"
 					],
@@ -2651,14 +3211,6 @@
 					[
 						"sea",
 						"arm-search/2015-02-28/swagger/search.json"
-					],
-					[
-						"mem",
-						"gatherings/app/models/member.rb"
-					],
-					[
-						"gat",
-						"gatherings/app/models/gathering.rb"
 					],
 					[
 						"ser",
@@ -2751,366 +3303,6 @@
 					[
 						"respte",
 						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"reste",
-						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"help",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"client",
-						"azure/azure-sdk-for-go/arm/compute/client.go"
-					],
-					[
-						"client.g",
-						"azure/azure-sdk-for-go/storage/client.go"
-					],
-					[
-						"res",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"pret",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"tokete",
-						"azure/go-autorest/autorest/azure/token_test.go"
-					],
-					[
-						"prete",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"prep",
-						"azure/go-autorest/autorest/preparer.go"
-					],
-					[
-						"sendte",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mocks.",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"sente",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"prepate",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"auto",
-						"azure/go-autorest/autorest/autorest.go"
-					],
-					[
-						"responder.g",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"comte",
-						"brendandixon/sdk/compute/compute_test.go"
-					],
-					[
-						"sub",
-						"brendandixon/sdk/subscriptions/subscriptions_test.go"
-					],
-					[
-						"stroage",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"subte",
-						"brendandixon/sdk/subscriptions/subscriptions_test.go"
-					],
-					[
-						"hel",
-						"brendandixon/sdk/helper.go"
-					],
-					[
-						"sto",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"stor",
-						"brendandixon/sdk/storage/storage_test.go"
-					],
-					[
-						"storage/s",
-						"brendandixon/sdk/storage/storage.go"
-					],
-					[
-						"tokt",
-						"azure/go-autorest/autorest/token_test.go"
-					],
-					[
-						"tokte",
-						"azure/go-autorest/autorest/token_test.go"
-					],
-					[
-						"prepte",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"date",
-						"azure/go-autorest/autorest/date/date.go"
-					],
-					[
-						"sendt",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"autote",
-						"azure/go-autorest/autorest/autorest_test.go"
-					],
-					[
-						"autorest_t",
-						"azure/go-autorest/autorest/autorest_test.go"
-					],
-					[
-						"toke",
-						"azure/go-autorest/autorest/token.go"
-					],
-					[
-						"utility",
-						"azure/go-autorest/autorest/utility_test.go"
-					],
-					[
-						"test.",
-						"brendandixon/test/test.go"
-					],
-					[
-						"test",
-						"brendandixon/sdk/test.go"
-					],
-					[
-						"test.g",
-						"brendandixon/go-tour/test.go"
-					],
-					[
-						"prepar",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"sender_t",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mode",
-						"azure/azure-sdk-for-go/arm/storage/models.go"
-					],
-					[
-						"sender_",
-						"azure/go-autorest/autorest/sender_test.go"
-					],
-					[
-						"mo",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"he",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"helpers",
-						"azure/go-autorest/autorest/mocks/helpers.go"
-					],
-					[
-						"utili",
-						"azure/go-autorest/autorest/utility_test.go"
-					],
-					[
-						"respond",
-						"azure/go-autorest/autorest/responder_test.go"
-					],
-					[
-						"mocks.g",
-						"azure/go-autorest/autorest/mocks/mocks.go"
-					],
-					[
-						"respo",
-						"azure/go-autorest/autorest/responder.go"
-					],
-					[
-						"prepare",
-						"azure/go-autorest/autorest/preparer_test.go"
-					],
-					[
-						"read",
-						"azure/go-autorest/README.md"
-					],
-					[
-						"to",
-						"azure/go-autorest/autorest/token.go"
-					],
-					[
-						"10",
-						"10basics"
-					],
-					[
-						"date_te",
-						"azure/azure-sdk-for-go/arm/date/date_test.go"
-					],
-					[
-						"pip",
-						"brendandixon/sdk/pipeline.go"
-					],
-					[
-						"uti",
-						"azure/autorest-go/utility_test.go"
-					],
-					[
-						"comm",
-						"azure/azure-sdk-for-go/arm/common.go"
-					],
-					[
-						"common_te",
-						"azure/azure-sdk-for-go/arm/common_test.go"
-					],
-					[
-						"common",
-						"azure/azure-sdk-for-go/arm/common.go"
-					],
-					[
-						"arm/mo",
-						"azure/azure-sdk-for-go/arm/storage/models.go"
-					],
-					[
-						"arm/clie",
-						"azure/azure-sdk-for-go/arm/storage/client.go"
-					],
-					[
-						"ut",
-						"vhd/util.go"
-					],
-					[
-						"tok",
-						"token.json"
-					],
-					[
-						"mk",
-						"mkvhd.go"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"vm",
-						"vm"
-					],
-					[
-						"ans",
-						"pkg/term/windows/ansi.go"
-					],
-					[
-						"ansi_",
-						"pkg/term/windows/ansi_reader.go"
-					],
-					[
-						"10basi",
-						".bashrc.d/10basics"
-					],
-					[
-						"10bas",
-						".bashrc.d/10basics"
-					],
-					[
-						".bash",
-						".bashrc"
-					],
-					[
-						".bashrc",
-						".bashrc"
-					],
-					[
-						".bash_pr",
-						".bash_profile"
-					],
-					[
-						"02t",
-						".bashrc.d/02test"
-					],
-					[
-						".bas",
-						".bashrc"
-					],
-					[
-						".ba",
-						".bashrc"
-					],
-					[
-						"lex",
-						"src/net/http/lex.go"
-					],
-					[
-						"az",
-						"azure.go"
-					],
-					[
-						"windo",
-						"pkg/term/windows/windows.go"
-					],
-					[
-						"ap",
-						"pkg/term/windows/api.go"
-					],
-					[
-						"api",
-						"pkg/term/windows/api.go"
-					],
-					[
-						"ansi",
-						"pkg/term/windows/ansi_writer.go"
-					],
-					[
-						"conso",
-						"pkg/term/windows/console.go"
-					],
-					[
-						"ansi_wr",
-						"pkg/term/windows/ansi_writer.go"
-					],
-					[
-						"ansi_re",
-						"pkg/term/windows/ansi_reader.go"
-					],
-					[
-						"term",
-						"pkg/term/term_windows.go"
-					],
-					[
-						"ansite",
-						"pkg/term/windows/ansi_test.go"
-					],
-					[
-						"an",
-						"pkg/term/windows/ansi.go"
-					],
-					[
-						"apitests.op",
-						"AutoRest/Modelers/Swagger.Tests/Expected/Expected/ApiTests.OptionalParameters.cs"
-					],
-					[
-						"gotype",
-						"AutoRest/CodeGenerators/Golang/Visitors/GoTypeRewritingCodeVisitor.cs"
-					],
-					[
-						"assembl",
-						"AutoRest/CodeGenerators/Golang/Properties/AssemblyInfo.cs"
-					],
-					[
-						"goty",
-						"AutoRest/CodeGenerators/Golang/GoTypes.cs"
-					],
-					[
-						"gocodewr",
-						"AutoRest/CodeGenerators/Golang/GoCodeWriter.cs"
 					]
 				],
 				"width": 0.0
@@ -3133,6 +3325,7 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -3140,12 +3333,1744 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 268.0,
+			"side_bar_width": 265.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 416
+			"window_id": 552,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"maximum"
+					],
+					[
+						"min",
+						"mininum"
+					],
+					[
+						"mi",
+						"mininum"
+					],
+					[
+						"va",
+						"validates_numericality_of"
+					],
+					[
+						"meeting",
+						"meeting_time"
+					],
+					[
+						"be",
+						"beginning_of_day"
+					],
+					[
+						"mee",
+						"meeting_ends"
+					],
+					[
+						"end",
+						"end_of_day"
+					],
+					[
+						"validates",
+						"validates_datetime"
+					],
+					[
+						"me",
+						"meeting_starts"
+					],
+					[
+						"stree_",
+						"street_primary"
+					],
+					[
+						"co",
+						"community"
+					],
+					[
+						"coll",
+						"collection"
+					],
+					[
+						"resource",
+						"resource_type"
+					],
+					[
+						"collection",
+						"collection_member"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"par",
+						"as_participant"
+					],
+					[
+						"member",
+						"memberships"
+					],
+					[
+						"Co",
+						"CommunityMembership"
+					],
+					[
+						"make",
+						"make_participant"
+					],
+					[
+						"change",
+						"change_column"
+					],
+					[
+						"comm",
+						"community_memberships"
+					],
+					[
+						"Campus",
+						"CampusGathering"
+					],
+					[
+						"gah",
+						"gathering_members"
+					],
+					[
+						"commu",
+						"community_members"
+					],
+					[
+						"En",
+						"EncodedAsJSON	 Ɩ"
+					],
+					[
+						"loo",
+						"lookup_context"
+					],
+					[
+						"Ba",
+						"BASEDATE"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"ens",
+						"ensure_flushed"
+					],
+					[
+						"DEVIC",
+						"DEVICE_BOOT"
+					],
+					[
+						"en",
+						"ensure_unmounted"
+					],
+					[
+						"UUI",
+						"UUID_ROOT"
+					],
+					[
+						"FORM",
+						"FORMAT_UEFI"
+					],
+					[
+						"MOUN",
+						"MOUNT_DATA"
+					],
+					[
+						"DE",
+						"DEVICE_DATA"
+					],
+					[
+						"MOUNT",
+						"MOUNT_UEFI"
+					],
+					[
+						"FORMAT",
+						"FORMAT_UEFI"
+					],
+					[
+						"format",
+						"format_partition"
+					],
+					[
+						"DEVI",
+						"DEVICE_BOOT"
+					],
+					[
+						"TYPE",
+						"TYPE_LINUX"
+					],
+					[
+						"MiB",
+						"MiB_SWAP"
+					],
+					[
+						"Gi",
+						"GiB_ROOT"
+					],
+					[
+						"type",
+						"TYPE_MBR"
+					],
+					[
+						"BOOT",
+						"BOOTSTYLE"
+					],
+					[
+						"GiB_",
+						"GiB_SWAP"
+					],
+					[
+						"Determin",
+						"Determining"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"UE",
+						"UEFI_FORMAT"
+					],
+					[
+						"UEF",
+						"UEFI"
+					],
+					[
+						"U",
+						"UEFI_PARTITION"
+					],
+					[
+						"L",
+						"LEGAL_USTIMEZONE"
+					],
+					[
+						"vali",
+						"validates"
+					],
+					[
+						"attr",
+						"attributes"
+					],
+					[
+						"time",
+						"time_zone_saved"
+					],
+					[
+						"save",
+						"saved_attributes"
+					],
+					[
+						"LONG",
+						"LONG_NAME"
+					],
+					[
+						"VALID",
+						"VALID_NAME"
+					],
+					[
+						"Pathable",
+						"PathableModel"
+					],
+					[
+						"P",
+						"PATH_MESSAGE"
+					],
+					[
+						"PAT",
+						"PATH_REGEX"
+					],
+					[
+						"io",
+						"ioutil	 package ρ"
+					],
+					[
+						"Respond",
+						"Responder	interface ¡"
+					],
+					[
+						"With",
+						"WithInspection	PrepareDecorator ƒ"
+					],
+					[
+						"Pre",
+						"Prepare	*http.Request, error ƒ"
+					],
+					[
+						"mo",
+						"mockRequestInspector	struct ʈ"
+					],
+					[
+						"By",
+						"ByIgnoring	RespondDecorator ƒ"
+					],
+					[
+						"REspon",
+						"RespondDecorator	func(Responder) Responder ʈ"
+					],
+					[
+						"Resp",
+						"RespondDecorator	func(Responder) Responder ʈ"
+					],
+					[
+						"R",
+						"RespondDecorator	func(Responder) Responder ʈ"
+					],
+					[
+						"M",
+						"Millisecond	 Ɩ"
+					],
+					[
+						"Set",
+						"SetPollingDuration	 ƒ"
+					],
+					[
+						"Cli",
+						"ClientSecret	 Ɩ"
+					],
+					[
+						"he",
+						"headerRetryAfter	 Ɩ"
+					],
+					[
+						"SetPo",
+						"SetPollingMode	 ƒ"
+					],
+					[
+						"new",
+						"NewClient	*mocks.Client ƒ"
+					],
+					[
+						"po",
+						"pollingDuration	time.Duration ν"
+					],
+					[
+						"Poll",
+						"PollForAttempts	*http.Response, error ƒ"
+					],
+					[
+						"hea",
+						"headerMockAuthorizer	 Ɩ"
+					],
+					[
+						"prin",
+						"Printf	n int, err error ƒ"
+					],
+					[
+						"Pi",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"E",
+						"Error	 ƒ"
+					],
+					[
+						"polling",
+						"pollingDuration	time.Duration ν"
+					],
+					[
+						"PollF",
+						"PollForDuration	bool ƒ"
+					],
+					[
+						"p",
+						"pollingAttempts	int ν"
+					],
+					[
+						"Setpo",
+						"SetPollingMode	 ƒ"
+					],
+					[
+						"poll",
+						"pollingMode	PollingMode ν"
+					],
+					[
+						"Pol",
+						"PollingMode	string ʈ"
+					],
+					[
+						"for",
+						"ForAttempts	 Ɩ"
+					],
+					[
+						"PollFo",
+						"PollForDuration	*http.Response, error ƒ"
+					],
+					[
+						"Em",
+						"EmitStatus	 ƒ"
+					],
+					[
+						"T",
+						"Type	string ν"
+					],
+					[
+						"Re",
+						"Resource	string ν"
+					],
+					[
+						"Ex",
+						"ExpiresIn	string ν"
+					],
+					[
+						"newTo",
+						"newTokenJSON	string ƒ"
+					],
+					[
+						"expir",
+						"expiresOn	string ν"
+					],
+					[
+						"N",
+						"NewResponseWithContent	*http.Response ƒ"
+					],
+					[
+						"re",
+						"resp	*http.Response ν"
+					],
+					[
+						"New",
+						"NewResponse	*http.Response ƒ"
+					],
+					[
+						"de",
+						"defaultFormData	 Ɩ"
+					],
+					[
+						"C",
+						"CanonicalHeaderKey	string ƒ"
+					],
+					[
+						"Prin",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Decor",
+						"DecorateSender	autorest.Sender ƒ"
+					],
+					[
+						"Res",
+						"Respond	error ƒ"
+					],
+					[
+						"Sen",
+						"SendWithSender	*http.Response, error ƒ"
+					],
+					[
+						"WithPath",
+						"WithPathParameters	autorest.PrepareDecorator ƒ"
+					],
+					[
+						"mim",
+						"mimeTypeFormPost	 Ɩ"
+					],
+					[
+						"m",
+						"mimeTypeFormPost	 Ɩ"
+					],
+					[
+						"Ref",
+						"RefreshIfNeeded	error ƒ"
+					],
+					[
+						"ref",
+						"refreshWithin	time.Duration ν"
+					],
+					[
+						"REf",
+						"RefreshIfExpiresIn	error ƒ"
+					],
+					[
+						"Wi",
+						"WillExpireIn	bool ƒ"
+					],
+					[
+						"STATU",
+						"StatusCode	int ν"
+					],
+					[
+						"t",
+						"testBearerToken	 Ɩ"
+					],
+					[
+						"aut",
+						"headerAuthorization	 Ɩ"
+					],
+					[
+						"test",
+						"testUrl	 Ɩ"
+					],
+					[
+						"NewResponseWith",
+						"NewResponseWithStatus	*http.Response ƒ"
+					],
+					[
+						"n",
+						"NewResponse	*http.Response ƒ"
+					],
+					[
+						"De",
+						"DelayForBackoff	 ƒ"
+					],
+					[
+						"Print",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Pr",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Create",
+						"CreatePollingRequest	*http.Request, time.Duration, error ƒ"
+					],
+					[
+						"CreateP",
+						"CreatePollingRequest	*http.Request, time.Duration, error ƒ"
+					],
+					[
+						"NewResponseWit",
+						"NewResponseWithStatus	*http.Response ƒ"
+					],
+					[
+						"Do",
+						"DoErrorIfStatusCode	SendDecorator ƒ"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/azure.go",
+					"settings":
+					{
+						"buffer_size": 8291,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/azure_test.go",
+					"settings":
+					{
+						"buffer_size": 15415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender.go",
+					"settings":
+					{
+						"buffer_size": 8510,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender_test.go",
+					"settings":
+					{
+						"buffer_size": 12928,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Pa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Go",
+						"GoSublime: Open Error Log"
+					],
+					[
+						"pret",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"os.environ",
+					"import os",
+					"printenv",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure"
+			],
+			"file_history":
+			[
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/devicetoken.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/token.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/mocks/helpers.go",
+				"/Users/brendan/Code/thegatherings/gatherings/config/locales/en.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/tags.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/active_dates.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/factories/campuses.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/campus_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/time_zone_validator.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/addressed.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/application.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/spec/models/community_spec.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/seeds.rb",
+				"/Users/brendan/Code/thegatherings/doc/Routes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/config/routes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/tags_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/communities_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_footer.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/members/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/gatherings/_form.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/show.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/report.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/communities/index.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/new.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/gatherings_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/tags/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/shared/_collection.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile.lock",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r1",
+				"/Users/brendan/Code/thegatherings/gatherings/r2",
+				"/Users/brendan/Code/thegatherings/doc/Notes.md",
+				"/Users/brendan/Code/thegatherings/gatherings/routes",
+				"/Users/brendan/Code/thegatherings/gatherings/r",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/age_groups.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/welcome_controller.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/concerns/sequencer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/member_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/community_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/app/controllers/members_controllers.rb",
+				"/Users/brendan/Code/thegatherings/r.txt",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160131051714_add_gathering_status.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/gathering_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/relationships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/life_stages.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/genders.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/views/campuses/edit.html.haml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/campus_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/application_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/authorizers/membership_authorizer.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130014102_drop_old_memberships.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/schema.rb",
+				"/Users/brendan/Code/thegatherings/doc/Roles.md",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130011830_add_unique_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160130010716_add_memberships.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/date_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/lib/extensions/string_extensions.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/attendance_record.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/membership_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128030730_fix_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128014112_change_roles_to_strings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160128012111_update_membership_tables.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126155923_change_member_to_membership.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_member.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/initializers/authority.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160126043343_correct_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/Gemfile",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliation_request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campuses_gathering.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/unique_id.rb",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/COMMIT_EDITMSG",
+				"/Users/brendan/Code/go/src/github.com/Azure/azure-sdk-for-go/.git/rebase-merge/git-rebase-todo",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_affiliation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/affiliate.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/request.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/invitation.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/gathering_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/community_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/campus_role.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/app/models/concerns/appearance.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042302_create_invitations.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121042810_create_appearances.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121040710_add_missing_indexes.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035527_create_roles.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121035831_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121034136_create_campuses_gatherings.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/db/migrate/20160121033054_add_mininum_maximum_members_to_gathering.rb",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/client.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/autorest.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/error.go",
+				"/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/utility_test.go",
+				"/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/responder_test.go",
+				"/usr/local/Library/Formula/go.rb",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/application.js",
+				"/Users/brendan/Code/thegatherings/gatherings/app/assets/javascripts/jquery-with-rails-ujs.js",
+				"/Users/brendan/Code/thegatherings/gatherings/config/requirejs.yml.new"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"/Users/brendan/Code/thegatherings/gatherings/app",
+					"",
+					"/Users/brendan/Code/go/src/github.com/azure/azure-rest-api-specs",
+					"",
+					"/Users/brendan/Code/go/src/github.com/docker/docker/pkg/term/windows",
+					"",
+					"/Users/brendan/Code/go/src/github.com/docker/docker/pkg/term/windows",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Sleep",
+					"DelayForBackoff",
+					"Sleep",
+					"sleep",
+					"_time",
+					"TIME_BASE",
+					"name",
+					"campus",
+					"Campus",
+					"@campus",
+					"country",
+					"state",
+					"city",
+					"street_primary",
+					"street",
+					"create",
+					"_url",
+					"members#de",
+					":collection",
+					"puts",
+					"\\?",
+					"ROLES",
+					"include Roles",
+					"Roles",
+					"{g}",
+					"participant",
+					"ROLE_NAMES",
+					".today",
+					"invitation",
+					"appearances",
+					"affiliate",
+					"affiliations",
+					"unaffiliated_on",
+					"affliated_on",
+					"affiliation",
+					"primary",
+					"requests",
+					"affilliations",
+					"_roles",
+					"invitations",
+					"campuses",
+					"\n    ",
+					"ByInspecting",
+					"Println",
+					"encoding",
+					"AsDel",
+					"sequence_complete",
+					"sequence_begin",
+					"Sequencer",
+					"@welcome",
+					"%",
+					"@welcome",
+					"sequence_complete",
+					"welcome",
+					"\\./scss/foundation",
+					"\\$charcoal",
+					"\\$white",
+					"$white",
+					"See ",
+					"See",
+					"LoadBalancerProbeServer",
+					"LBProbe",
+					"form.",
+					"@form",
+					"f.",
+					"NetworkSecurityGroup",
+					"\"Provision",
+					"\"Provisioned",
+					"\"Provision",
+					"Report",
+					"autoUpgrade",
+					"Version\\(",
+					"handle_enable",
+					"get_target_version",
+					"upgradePolicy",
+					"update_policy",
+					"#",
+					"ExtHandlerInstance",
+					"Version",
+					"ExtensionsConfig",
+					"LooseVersion",
+					"Version",
+					"autoUpgradeMinorVersion",
+					"curr_version",
+					"previous_version",
+					"Extension",
+					"ROOT",
+					"UEFI",
+					"ROOT",
+					"UEFI",
+					"if",
+					"DEVICE",
+					"ExpectedState",
+					"GoalState",
+					"Children",
+					"UpdateAndPublishHostName",
+					"RestartInterface",
+					"publishHostname",
+					"UpdateAndPublishHostName",
+					"setScsiDiskTimeout",
+					"RulesFiles",
+					"EnvMonitor",
+					"Monitor",
+					"setSelinuxEnforce",
+					"def Provision",
+					"UpdateGoalState",
+					"GenerateTransportCert",
+					"initScsiDiskTimeout",
+					"dhcp_enabled",
+					"def isDH",
+					"VMM_CONFIG_FILE_NAME",
+					"NUMA",
+					"agent_files_to_uninstall",
+					"def Install",
+					"def checkDependencies",
+					"RulesFiles",
+					"def Install",
+					"Install",
+					"GuestAgentVersion",
+					"GetMyDistro",
+					"ConfigurationPath",
+					"ConfigurationProvider",
+					"DistInfo",
+					"Paul",
+					"echo\\s\"",
+					"\"\\.\\.\\.",
+					"find host key",
+					"fingerprint"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"_duration",
+					"description",
+					"addressed",
+					"time_zone",
+					"country",
+					"state",
+					"city",
+					"logger \"AzLinux Install: ",
+					"\"",
+					"$1\"$2\",",
+					"$1\"$2\"",
+					"2001-02-03T04:05:06Z",
+					"fail",
+					"byte",
+					"$2\\t$1",
+					"-",
+					"",
+					"WORD",
+					"int16 =",
+					"ANSI_SGR_",
+					"SGR_BACK",
+					"SGR_FORE",
+					"SGR",
+					"windowsMode",
+					"value",
+					"increment",
+					"value",
+					"aw.",
+					"FOCUS_EVENT",
+					"coordToDWORD",
+					"coordToPointer",
+					"IsConsole",
+					"- ",
+					"stringMe",
+					"\\t",
+					"- ",
+					"",
+					"Error",
+					"$2($1)",
+					"$1($2)",
+					"$2.($1)",
+					"\"$1\"",
+					"- ",
+					"",
+					"JSON",
+					"-",
+					"quotaInfo",
+					"team",
+					"referralLink",
+					"",
+					"\\n",
+					"constexpr",
+					"tracker_field"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/azure.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8291,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6554,
+										6554
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2834.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/azure/azure_test.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13325,
+										13316
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 6991.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8510,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8347,
+										8347
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2960.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/brendan/Code/go/src/github.com/Azure/go-autorest/autorest/sender_test.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12928,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12223,
+										12223
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7856.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/brendan/Code/go/src/github.com/azure/go-autorest/autorest":
+			{
+				"height": 94.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 116.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 94.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 94.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 495 85 1569 1316 0 0 2560 1417 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"send",
+						"autorest/sender_test.go"
+					],
+					[
+						"devi",
+						"autorest/azure/devicetoken.go"
+					],
+					[
+						"token",
+						"autorest/azure/token.go"
+					],
+					[
+						"azure",
+						"autorest/azure/azure_test.go"
+					],
+					[
+						"en",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"tag",
+						"gatherings/app/models/concerns/tags.rb"
+					],
+					[
+						"active",
+						"gatherings/app/models/concerns/active_dates.rb"
+					],
+					[
+						"campus",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"camp",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"comm",
+						"gatherings/app/models/community.rb"
+					],
+					[
+						"gateh",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gat",
+						"gatherings/spec/factories/gatherings.rb"
+					],
+					[
+						"addre",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"app",
+						"gatherings/config/application.rb"
+					],
+					[
+						"time",
+						"gatherings/app/models/concerns/time_zone_validator.rb"
+					],
+					[
+						"addres",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"address",
+						"gatherings/app/models/concerns/addressed.rb"
+					],
+					[
+						"campuses",
+						"gatherings/spec/factories/campuses.rb"
+					],
+					[
+						"cam",
+						"gatherings/app/models/campus.rb"
+					],
+					[
+						"seeds",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"see",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"route",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"tags",
+						"gatherings/app/controllers/tags_controller.rb"
+					],
+					[
+						"member",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"mem",
+						"gatherings/app/controllers/members_controller.rb"
+					],
+					[
+						"gath",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"coll",
+						"gatherings/app/views/shared/_collection.html.haml"
+					],
+					[
+						"gem",
+						"gatherings/Gemfile.lock"
+					],
+					[
+						"membership",
+						"gatherings/app/models/membership.rb"
+					],
+					[
+						"r1",
+						"gatherings/r1"
+					],
+					[
+						"r2",
+						"gatherings/r2"
+					],
+					[
+						"n",
+						"doc/Notes.md"
+					],
+					[
+						"rout",
+						"gatherings/routes"
+					],
+					[
+						"age",
+						"gatherings/app/models/concerns/age_groups.rb"
+					],
+					[
+						"seq",
+						"gatherings/app/controllers/concerns/sequencer.rb"
+					],
+					[
+						"r",
+						"gatherings/r.txt"
+					],
+					[
+						"r.",
+						"gatherings/r.txt"
+					],
+					[
+						"r.t",
+						"r.txt"
+					],
+					[
+						"gathering_con",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"member.",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"ga",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"statu",
+						"gatherings/db/migrate/20160131051714_add_gathering_status.rb"
+					],
+					[
+						"en.",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"seed",
+						"gatherings/db/seeds.rb"
+					],
+					[
+						"wel",
+						"gatherings/app/controllers/welcome_controller.rb"
+					],
+					[
+						"gather",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"gathering",
+						"gatherings/app/controllers/gatherings_controller.rb"
+					],
+					[
+						"en.y",
+						"gatherings/config/locales/en.yml"
+					],
+					[
+						"edit",
+						"gatherings/app/views/gatherings/edit.html.haml"
+					],
+					[
+						"new",
+						"gatherings/app/views/campuses/new.html.haml"
+					],
+					[
+						"repo",
+						"gatherings/app/views/communities/report.html.haml"
+					],
+					[
+						"dropol",
+						"gatherings/db/migrate/20160130014102_drop_old_memberships.rb"
+					],
+					[
+						"gathe",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"addu",
+						"gatherings/db/migrate/20160130011830_add_unique_membership.rb"
+					],
+					[
+						"sche",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"add_m",
+						"gatherings/db/migrate/20160130010716_add_memberships.rb"
+					],
+					[
+						"routes.r",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"role",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"routes",
+						"gatherings/config/routes.rb"
+					],
+					[
+						"date",
+						"lib/extensions/date_extensions.rb"
+					],
+					[
+						"string",
+						"gatherings/lib/extensions/string_extensions.rb"
+					],
+					[
+						"commun",
+						"gatherings/app/models/community_membership.rb"
+					],
+					[
+						"campu",
+						"gatherings/app/models/campus_membership.rb"
+					],
+					[
+						"att",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"fixro",
+						"gatherings/db/migrate/20160128030730_fix_roles.rb"
+					],
+					[
+						"rol",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"roles",
+						"gatherings/app/models/concerns/roles.rb"
+					],
+					[
+						"changerol",
+						"gatherings/db/migrate/20160128014112_change_roles_to_strings.rb"
+					],
+					[
+						"remove",
+						"gatherings/db/migrate/20160128013154_remove_campus_gatherings.rb"
+					],
+					[
+						"update",
+						"gatherings/db/migrate/20160128012111_update_membership_tables.rb"
+					],
+					[
+						"memb",
+						"gatherings/app/models/member.rb"
+					],
+					[
+						"gatherin",
+						"gatherings/app/models/gathering_membership.rb"
+					],
+					[
+						"chan",
+						"gatherings/db/migrate/20160126155923_change_member_to_membership.rb"
+					],
+					[
+						"rel",
+						"gatherings/app/models/concerns/relationships.rb"
+					],
+					[
+						"gen",
+						"gatherings/app/models/concerns/genders.rb"
+					],
+					[
+						"lif",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"sch",
+						"gatherings/db/schema.rb"
+					],
+					[
+						"corr",
+						"gatherings/db/migrate/20160126043343_correct_roles.rb"
+					],
+					[
+						"g",
+						"gatherings/Gemfile"
+					],
+					[
+						"atte",
+						"gatherings/app/models/attendance_record.rb"
+					],
+					[
+						"gathr",
+						"gatherings/app/models/gathering.rb"
+					],
+					[
+						"un",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"uni",
+						"app/models/concerns/unique_id.rb"
+					],
+					[
+						"ut",
+						"autorest/utility_test.go"
+					],
+					[
+						"respo",
+						"autorest/responder_test.go"
+					],
+					[
+						"ap",
+						"gatherings/config/application.rb"
+					],
+					[
+						"asses",
+						"gatherings/config/initializers/assets.rb"
+					],
+					[
+						"produ",
+						"gatherings/config/environments/production.rb"
+					],
+					[
+						"re",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"regist",
+						"gatherings/app/controllers/members/registrations_controller.rb"
+					],
+					[
+						"bower.j",
+						"gatherings/bower.json"
+					],
+					[
+						"deve",
+						"gatherings/config/environments/development.rb"
+					],
+					[
+						"_header",
+						"gatherings/app/views/layouts/_header.html.haml"
+					],
+					[
+						"note",
+						"doc/Notes.md"
+					],
+					[
+						"application",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"_head",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"life",
+						"gatherings/app/models/concerns/life_stages.rb"
+					],
+					[
+						"wa",
+						"waagent"
+					],
+					[
+						"waa",
+						"waagent"
+					],
+					[
+						"exten",
+						"azurelinuxagent/distro/default/extension.py"
+					],
+					[
+						"li",
+						"LICENSE-2.0.txt"
+					],
+					[
+						"no",
+						"doc/Notes.md"
+					],
+					[
+						"do",
+						"ubuntu-sshd/Dockerfile"
+					],
+					[
+						"doc",
+						"Dockerfile"
+					],
+					[
+						"zon",
+						"gatherings/app/models/concerns/zoneable.rb"
+					],
+					[
+						"pa",
+						"gatherings/app/models/concerns/pathable.rb"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						".r",
+						"gatherings/.rspec"
+					],
+					[
+						"sea",
+						"arm-search/2015-02-28/swagger/search.json"
+					],
+					[
+						"ser",
+						"arm-web/2015-08-01/swagger/service.json"
+					],
+					[
+						"resp",
+						"azure/go-autorest/autorest/responder.go"
+					],
+					[
+						"pre",
+						"azure/go-autorest/autorest/preparer.go"
+					],
+					[
+						"clietest",
+						"azure/go-autorest/autorest/client_test.go"
+					],
+					[
+						"sen",
+						"azure/go-autorest/autorest/sender.go"
+					],
+					[
+						"respon",
+						"azure/go-autorest/autorest/responder.go"
+					],
+					[
+						"cliete",
+						"azure/go-autorest/autorest/client_test.go"
+					],
+					[
+						"sender.",
+						"azure/go-autorest/autorest/sender.go"
+					],
+					[
+						"sender",
+						"azure/go-autorest/autorest/sender_test.go"
+					],
+					[
+						"clienttest",
+						"azure/go-autorest/autorest/client_test.go"
+					],
+					[
+						"clietn_t",
+						"azure/azure-sdk-for-go/storage/client_test.go"
+					],
+					[
+						"helper",
+						"brendandixon/sdk/helper.go"
+					],
+					[
+						"aute",
+						"azure/go-autorest/autorest/autorest_test.go"
+					],
+					[
+						"moc",
+						"azure/go-autorest/autorest/mocks/mocks.go"
+					],
+					[
+						"autte",
+						"azure/go-autorest/autorest/autorest_test.go"
+					],
+					[
+						"au",
+						"azure/go-autorest/autorest/autorest.go"
+					],
+					[
+						"aut",
+						"azure/go-autorest/autorest/autorest.go"
+					],
+					[
+						"mock",
+						"azure/go-autorest/autorest/mocks/mocks.go"
+					],
+					[
+						"clite",
+						"azure/azure-sdk-for-go/storage/client_test.go"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 600,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":

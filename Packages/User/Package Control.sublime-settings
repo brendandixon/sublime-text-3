@@ -5,9 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"ANSIescape",
+		"Better CoffeeScript",
 		"Dockerfile Syntax Highlighting",
 		"GoSublime",
 		"Haml",
+		"Indent XML",
 		"Package Control",
 		"Pretty JSON",
 		"SCSS",

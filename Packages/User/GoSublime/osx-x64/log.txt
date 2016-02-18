@@ -26500,3 +26500,935 @@ created by main.(*Broker).Loop
 ** 2015-09-23 13:21:14.288720 **:
 GsComplete: broker: gocode_complete#mg9.autoken.53a863f3-a910-40c8-b47f-b7d3a18ecf5b PANIC
 --------------------------------
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/opt/go/libexec/pkg/darwin_amd64:/Users/brendan/Code/go/pkg/darwin_amd64:/Users/brendan/Code/go/src/github.com/docker/docker/vendor/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/opt/go/libexec", GOPATH:"/Users/brendan/Code/go:/Users/brendan/Code/go/src/github.com/docker/docker/vendor", InstallSuffix:""}
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/storage"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/storage"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "."
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/opt/go/libexec/pkg/darwin_amd64:/Users/brendan/Code/go/pkg/darwin_amd64:/Users/brendan/Code/go/src/github.com/docker/docker/vendor/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/opt/go/libexec", GOPATH:"/Users/brendan/Code/go:/Users/brendan/Code/go/src/github.com/docker/docker/vendor", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "github.com/brendandixon/foo"
+margo: 2016/01/29 14:37:32 broker.go:105: gocode_complete#mg9.autoken.fd23ed1c-a219-4df9-8462-942f43632c8e PANIC: runtime error: slice bounds out of range
+goroutine 54 [running]:
+main.(*Broker).call.func1(0xc820831360, 0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.collect_package_imports(0xc82080a540, 0x3e, 0xc820a1b130, 0x1, 0x1, 0xc82008a000, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:33 +0x517
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0xc82000abd0, 0xc82064b1d0, 0x42, 0x42)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:76 +0x29d
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0xc82000fec0, 0xc82064ab40, 0x41, 0x50, 0xc82080a540, 0x3e, 0x19, 0x0, 0x0, 0x0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:253 +0x2a2
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0xc8200c00b0, 0xc820831300, 0x0, 0x0, 0xc8208313e0, 0x19, 0xc820831480, 0x2, 0x2, 0xc82064ab40, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x187
+main.(*mGocode).completions(0xc8205c9800, 0xc82064ab40, 0x41, 0x50, 0xc82080a540, 0x3e, 0x19, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0x1c2
+main.(*mGocode).Call(0xc8205c9800, 0x0, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x7e6
+main.(*Broker).call(0xc82009aee0, 0xc820831360, 0xb66000, 0xc8205c9800)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x95
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xdb
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 1 [syscall]:
+syscall.Syscall(0x3, 0x0, 0xc820019000, 0x1000, 0x0, 0x0, 0x600)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/asm_darwin_amd64.s:16 +0x5
+syscall.read(0x0, 0xc820019000, 0x1000, 0x1000, 0xc82075ba1b, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/zsyscall_darwin_amd64.go:972 +0x5f
+syscall.Read(0x0, 0xc820019000, 0x1000, 0x1000, 0x28a, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/syscall_unix.go:160 +0x4d
+os.(*File).read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0x7b, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file_unix.go:211 +0x75
+os.(*File).Read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0xc8207fc4c0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file.go:95 +0x8a
+bufio.(*Reader).fill(0xc820014540)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:97 +0x1e9
+bufio.(*Reader).ReadSlice(0xc820014540, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:328 +0x21a
+bufio.(*Reader).ReadBytes(0xc820014540, 0xc82001460a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:406 +0xa9
+main.(*Broker).accept(0xc82009aee0, 0xc820014600, 0xc82009ae00)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x44
+main.(*Broker).Loop(0xc82009aee0, 0x690001)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x33b
+main.main()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0xbdb
+
+goroutine 10 [chan receive, 210 minutes]:
+gosubli.me/something-borrowed/gocode.new_file_reader.func1(0xc82002e1b8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:162 +0x7b
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:166 +0x88
+
+goroutine 11 [chan receive]:
+main.init.2.func1()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x85
+created by main.init.2
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x2b
+
+goroutine 12 [sleep, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.startOomKiller.func1(0x3e8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x429
+created by main.startOomKiller
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x35
+
+goroutine 13 [sleep]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.main.func1(0x6fc23ac00, 0xc82009aee0, 0xc820013d20)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x33
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0xb7f
+
+goroutine 14 [chan receive, 249 minutes]:
+main.main.func2(0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x94
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0xba4
+
+goroutine 50 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 51 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 52 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 53 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 55 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 56 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 57 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 58 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 59 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 60 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 61 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 62 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 63 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 64 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 65 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 66 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 67 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 68 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 69 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+
+
+** 2016-01-29 14:37:32.029687 **:
+GsComplete: broker: gocode_complete#mg9.autoken.fd23ed1c-a219-4df9-8462-942f43632c8e PANIC
+--------------------------------
+margo: 2016/01/29 14:37:34 broker.go:105: gocode_complete#mg9.autoken.3bbb6f66-33f9-4582-9bbd-765c887b64e8 PANIC: runtime error: slice bounds out of range
+goroutine 58 [running]:
+main.(*Broker).call.func1(0xc820565ce0, 0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.collect_package_imports(0xc82080a140, 0x3e, 0xc82078c840, 0x2, 0x2, 0xc82008a000, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:33 +0x517
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0xc82000abd0, 0xc820814a00, 0x44, 0x44)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:76 +0x29d
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0xc82000fec0, 0xc8208142d0, 0x43, 0x50, 0xc82080a140, 0x3e, 0x1b, 0x0, 0x0, 0x0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:253 +0x2a2
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0xc8200c00b0, 0xc82078c100, 0x0, 0x0, 0xc82078c1a0, 0x19, 0xc82078c260, 0x2, 0x2, 0xc8208142d0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x187
+main.(*mGocode).completions(0xc820658880, 0xc8208142d0, 0x43, 0x50, 0xc82080a140, 0x3e, 0x1b, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0x1c2
+main.(*mGocode).Call(0xc820658880, 0x0, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x7e6
+main.(*Broker).call(0xc82009aee0, 0xc820565ce0, 0xb66000, 0xc820658880)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x95
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xdb
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 1 [syscall]:
+syscall.Syscall(0x3, 0x0, 0xc820019000, 0x1000, 0x0, 0x0, 0x600)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/asm_darwin_amd64.s:16 +0x5
+syscall.read(0x0, 0xc820019000, 0x1000, 0x1000, 0xc82081021d, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/zsyscall_darwin_amd64.go:972 +0x5f
+syscall.Read(0x0, 0xc820019000, 0x1000, 0x1000, 0x28c, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/syscall_unix.go:160 +0x4d
+os.(*File).read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0x7b, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file_unix.go:211 +0x75
+os.(*File).Read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0xc82007a200, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file.go:95 +0x8a
+bufio.(*Reader).fill(0xc820014540)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:97 +0x1e9
+bufio.(*Reader).ReadSlice(0xc820014540, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:328 +0x21a
+bufio.(*Reader).ReadBytes(0xc820014540, 0xc82001460a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:406 +0xa9
+main.(*Broker).accept(0xc82009aee0, 0xc820014600, 0xc82009ae00)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x44
+main.(*Broker).Loop(0xc82009aee0, 0x690001)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x33b
+main.main()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0xbdb
+
+goroutine 10 [chan receive, 211 minutes]:
+gosubli.me/something-borrowed/gocode.new_file_reader.func1(0xc82002e1b8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:162 +0x7b
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:166 +0x88
+
+goroutine 11 [chan receive]:
+main.init.2.func1()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x85
+created by main.init.2
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x2b
+
+goroutine 12 [sleep, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.startOomKiller.func1(0x3e8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x429
+created by main.startOomKiller
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x35
+
+goroutine 13 [sleep]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.main.func1(0x6fc23ac00, 0xc82009aee0, 0xc820013d20)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x33
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0xb7f
+
+goroutine 14 [chan receive, 249 minutes]:
+main.main.func2(0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x94
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0xba4
+
+goroutine 50 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 51 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 52 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 53 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 54 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 55 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 56 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 57 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 59 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 60 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 61 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 62 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 63 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 64 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 65 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 66 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 67 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 68 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 69 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+
+
+** 2016-01-29 14:37:34.583484 **:
+GsComplete: broker: gocode_complete#mg9.autoken.3bbb6f66-33f9-4582-9bbd-765c887b64e8 PANIC
+--------------------------------
+margo: 2016/01/29 14:37:34 broker.go:105: gocode_complete#mg9.autoken.330353ee-a890-429f-87ef-49fb5f5ae243 PANIC: runtime error: slice bounds out of range
+goroutine 53 [running]:
+main.(*Broker).call.func1(0xc82078c180, 0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.collect_package_imports(0xc82080a600, 0x3e, 0xc82078caa0, 0x2, 0x2, 0xc82008a000, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:33 +0x517
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0xc82000abd0, 0xc8208149b0, 0x46, 0x46)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:76 +0x29d
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0xc82000fec0, 0xc8208141e0, 0x45, 0x50, 0xc82080a600, 0x3e, 0x1b, 0x0, 0x0, 0x0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:253 +0x2a2
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0xc8200c00b0, 0xc82078c200, 0x0, 0x0, 0xc82078c240, 0x19, 0xc82078c320, 0x2, 0x2, 0xc8208141e0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x187
+main.(*mGocode).completions(0xc820658980, 0xc8208141e0, 0x45, 0x50, 0xc82080a600, 0x3e, 0x1b, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0x1c2
+main.(*mGocode).Call(0xc820658980, 0x0, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x7e6
+main.(*Broker).call(0xc82009aee0, 0xc82078c180, 0xb66000, 0xc820658980)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x95
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xdb
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 1 [syscall]:
+syscall.Syscall(0x3, 0x0, 0xc820019000, 0x1000, 0x0, 0x0, 0x600)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/asm_darwin_amd64.s:16 +0x5
+syscall.read(0x0, 0xc820019000, 0x1000, 0x1000, 0xc820b3021f, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/zsyscall_darwin_amd64.go:972 +0x5f
+syscall.Read(0x0, 0xc820019000, 0x1000, 0x1000, 0x28e, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/syscall/syscall_unix.go:160 +0x4d
+os.(*File).read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0x7b, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file_unix.go:211 +0x75
+os.(*File).Read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0xc82007a200, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/os/file.go:95 +0x8a
+bufio.(*Reader).fill(0xc820014540)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:97 +0x1e9
+bufio.(*Reader).ReadSlice(0xc820014540, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:328 +0x21a
+bufio.(*Reader).ReadBytes(0xc820014540, 0xc82001460a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.2/libexec/src/bufio/bufio.go:406 +0xa9
+main.(*Broker).accept(0xc82009aee0, 0xc820014600, 0xc82009ae00)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x44
+main.(*Broker).Loop(0xc82009aee0, 0x690001)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x33b
+main.main()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0xbdb
+
+goroutine 10 [chan receive, 211 minutes]:
+gosubli.me/something-borrowed/gocode.new_file_reader.func1(0xc82002e1b8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:162 +0x7b
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:166 +0x88
+
+goroutine 11 [chan receive]:
+main.init.2.func1()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x85
+created by main.init.2
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x2b
+
+goroutine 12 [sleep, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.startOomKiller.func1(0x3e8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x429
+created by main.startOomKiller
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x35
+
+goroutine 13 [sleep]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/Cellar/go/1.5.2/libexec/src/runtime/time.go:59 +0xf9
+main.main.func1(0x6fc23ac00, 0xc82009aee0, 0xc820013d20)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x33
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0xb7f
+
+goroutine 14 [chan receive, 249 minutes]:
+main.main.func2(0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x94
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0xba4
+
+goroutine 50 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 51 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 52 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 54 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 55 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 56 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 57 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 58 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 59 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 60 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 61 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 62 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 63 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 64 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 65 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 66 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 67 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 68 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 69 [chan receive]:
+main.(*Broker).worker(0xc82009aee0, 0xc82026a010, 0xc820014600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+
+
+** 2016-01-29 14:37:34.784226 **:
+GsComplete: broker: gocode_complete#mg9.autoken.330353ee-a890-429f-87ef-49fb5f5ae243 PANIC
+--------------------------------
+Gocode pkg: "github.com/brendandixon/foo/a"
+Gocode pkg: "github.com/brendandixon/foo"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/compute"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/authorization"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/storage"
+Gocode pkg: "github.com/Azure/azure-sdk-for-go/arm/authorization"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/opt/go/libexec/pkg/darwin_amd64:/Users/brendan/Code/go/pkg/darwin_amd64:/Users/brendan/Code/go/src/github.com/docker/docker/vendor/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/opt/go/libexec", GOPATH:"/Users/brendan/Code/go:/Users/brendan/Code/go/src/github.com/docker/docker/vendor", InstallSuffix:""}
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/opt/go/libexec/pkg/darwin_amd64:/Users/brendan/Code/go/pkg/darwin_amd64:/Users/brendan/Code/go/src/github.com/docker/docker/vendor/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/opt/go/libexec", GOPATH:"/Users/brendan/Code/go:/Users/brendan/Code/go/src/github.com/docker/docker/vendor", InstallSuffix:""}
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/brendandixon/example"
+margo: 2016/02/17 10:48:12 broker.go:105: gocode_complete#mg9.autoken.138a4d06-8891-4afb-9aa2-44b939dc77c0 PANIC: runtime error: slice bounds out of range
+goroutine 49 [running]:
+main.(*Broker).call.func1(0xc8208c4020, 0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:104 +0xb2
+gosubli.me/something-borrowed/gocode.collect_package_imports(0xc820ac2000, 0x42, 0xc8208b4830, 0x1, 0x1, 0xc820084000, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/declcache.go:33 +0x517
+gosubli.me/something-borrowed/gocode.(*auto_complete_file).process_data(0xc82000abd0, 0xc821458180, 0xb9, 0xb9)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletefile.go:76 +0x29d
+gosubli.me/something-borrowed/gocode.(*auto_complete_context).apropos(0xc820138c80, 0xc8214580c0, 0xb8, 0xc0, 0xc820ac2000, 0x42, 0x31, 0x0, 0x0, 0x0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/autocompletecontext.go:253 +0x2a2
+gosubli.me/something-borrowed/gocode.(*margoState).Complete(0xc820102a50, 0xc8208c4000, 0x0, 0x0, 0xc8208c40a0, 0x19, 0xc8208c4600, 0x2, 0x2, 0xc8214580c0, ...)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/gosublime_gocode_bridge.go:78 +0x187
+main.(*mGocode).completions(0xc821362000, 0xc8214580c0, 0xb8, 0xc0, 0xc820ac2000, 0x42, 0x31, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:95 +0x1c2
+main.(*mGocode).Call(0xc821362000, 0x0, 0x0, 0x0, 0x0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/m_gocode.go:76 +0x7e6
+main.(*Broker).call(0xc82009aee0, 0xc8208c4020, 0xaab3d8, 0xc821362000)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:113 +0x95
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:188 +0xdb
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 1 [syscall, 1 minutes]:
+syscall.Syscall(0x3, 0x0, 0xc820019000, 0x1000, 0x0, 0x0, 0x600)
+	/usr/local/Cellar/go/1.5.3/libexec/src/syscall/asm_darwin_amd64.s:16 +0x5
+syscall.read(0x0, 0xc820019000, 0x1000, 0x1000, 0xc8205941e0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/syscall/zsyscall_darwin_amd64.go:972 +0x5f
+syscall.Read(0x0, 0xc820019000, 0x1000, 0x1000, 0x8f64b8, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/syscall/syscall_unix.go:160 +0x4d
+os.(*File).read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0x7b, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/os/file_unix.go:211 +0x75
+os.(*File).Read(0xc82002e008, 0xc820019000, 0x1000, 0x1000, 0xc82148c200, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/os/file.go:95 +0x8a
+bufio.(*Reader).fill(0xc820016540)
+	/usr/local/Cellar/go/1.5.3/libexec/src/bufio/bufio.go:97 +0x1e9
+bufio.(*Reader).ReadSlice(0xc820016540, 0xa, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/bufio/bufio.go:328 +0x21a
+bufio.(*Reader).ReadBytes(0xc820016540, 0xc82001660a, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/Cellar/go/1.5.3/libexec/src/bufio/bufio.go:406 +0xa9
+main.(*Broker).accept(0xc82009aee0, 0xc820016600, 0xc82009ae00)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:128 +0x44
+main.(*Broker).Loop(0xc82009aee0, 0x690001)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:213 +0x33b
+main.main()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:140 +0xbdb
+
+goroutine 19 [chan receive, 6 minutes]:
+gosubli.me/something-borrowed/gocode.new_file_reader.func1(0xc82013a198)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:162 +0x7b
+created by gosubli.me/something-borrowed/gocode.new_file_reader
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/something-borrowed/gocode/utils.go:166 +0x88
+
+goroutine 20 [chan receive, 1 minutes]:
+main.init.2.func1()
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:114 +0x85
+created by main.init.2
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/g_autoinst.go:117 +0x2b
+
+goroutine 21 [sleep, 1 minutes, locked to thread]:
+time.Sleep(0x77359400)
+	/usr/local/Cellar/go/1.5.3/libexec/src/runtime/time.go:59 +0xf9
+main.startOomKiller.func1(0x3e8)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:31 +0x429
+created by main.startOomKiller
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/oom.go:33 +0x35
+
+goroutine 22 [sleep, 1 minutes]:
+time.Sleep(0x6fc23ac00)
+	/usr/local/Cellar/go/1.5.3/libexec/src/runtime/time.go:59 +0xf9
+main.main.func1(0x6fc23ac00, 0xc82009aee0, 0xc820126e10)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:122 +0x33
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:131 +0xb7f
+
+goroutine 23 [chan receive, 11510 minutes]:
+main.main.func2(0xc82009aee0)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:135 +0x94
+created by main.main
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/main.go:138 +0xba4
+
+goroutine 50 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 51 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 52 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 53 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 54 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 55 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 56 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 57 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 58 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 59 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 60 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 61 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 62 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 63 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 64 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 65 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 66 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 67 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+goroutine 68 [chan receive, 1 minutes]:
+main.(*Broker).worker(0xc82009aee0, 0xc820126e80, 0xc820016600)
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:187 +0x81
+created by main.(*Broker).Loop
+	/Users/brendan/Library/Application Support/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x30a
+
+
+
+** 2016-02-17 10:48:12.597489 **:
+GsComplete: broker: gocode_complete#mg9.autoken.138a4d06-8891-4afb-9aa2-44b939dc77c0 PANIC
+--------------------------------
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/date"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"
+Gocode pkg: "github.com/Azure/go-autorest/autorest"
+Gocode pkg: "github.com/Azure/go-autorest/autorest/azure"

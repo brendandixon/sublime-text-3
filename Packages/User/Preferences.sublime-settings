@@ -2,7 +2,9 @@
 	"auto_find_in_selection": true,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
+	"color_inactive_tabs": true,
 	"color_scheme": "Packages/User/SublimeLinter/Mine (SL).tmTheme",
+  "create_window_at_startup": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -16,25 +18,22 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 0,
+  "open_files_in_new_window": true,
 	"rulers":
 	[
 		100,
 		120
 	],
+  "scroll_past_end": true,
 	"shift_tab_unindent": false,
+	"sidebar_no_icon": true,
+	"sidebar_size_12": true,
+	"status_bar_brighter": true,
 	"tab_size": 2,
+	"tabs_label_not_italic": false,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "auto",
-	
-	// Afterglow theme settings
-	// See https://github.com/YabataDesign/afterglow-theme/blob/master/README.md
-	// "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-	"color_inactive_tabs" : true,
-	"sidebar_no_icon" : true,
-	"sidebar_size_12":true,
-	"status_bar_brighter" : true,
-	"tabs_label_not_italic":false,
-	"tabs_padding_small" : true,
-	"tabs_small" : true,
-	"theme": "Afterglow-blue.sublime-theme"
+	"word_wrap": false
 }
